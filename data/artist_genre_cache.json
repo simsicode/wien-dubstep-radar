@@ -388,6 +388,22 @@
     ],
     "name": "PAUNA"
   },
+  "1311": {
+    "fetched_at": 1791270927,
+    "genres": [
+      "Downtempo",
+      "Balearic",
+      "House",
+      "Disco",
+      "Balearic",
+      "House",
+      "Balearic",
+      "House",
+      "Balearic",
+      "Progressive House"
+    ],
+    "name": "Ben Gomori"
+  },
   "132239": {
     "fetched_at": 1791222748,
     "genres": [
@@ -1024,6 +1040,14 @@
     ],
     "name": "pengg"
   },
+  "187042": {
+    "fetched_at": 1791270928,
+    "genres": [
+      "Disco",
+      "Balearic"
+    ],
+    "name": "Felix Wolfs"
+  },
   "187607": {
     "fetched_at": 1791222721,
     "genres": [
@@ -1268,6 +1292,14 @@
     ],
     "name": "Reika"
   },
+  "56473": {
+    "fetched_at": 1791270928,
+    "genres": [
+      "Disco",
+      "Balearic"
+    ],
+    "name": "Scheibosan"
+  },
   "5696": {
     "fetched_at": 1791222731,
     "genres": [
@@ -1439,6 +1471,18 @@
       "Techno"
     ],
     "name": "Linus Villa"
+  },
+  "97793": {
+    "fetched_at": 1791270927,
+    "genres": [
+      "Disco",
+      "Balearic",
+      "Techno",
+      "Disco",
+      "House",
+      "Balearic"
+    ],
+    "name": "Ariane V"
   },
   "98916": {
     "fetched_at": 1791222715,
