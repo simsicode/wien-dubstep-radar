@@ -1,6 +1,6 @@
 # Wien Dubstep Radar
 
-Stand: 2026-10-07T07:18:22.052083+00:00
+Stand: 2026-10-08T07:18:52.980245+00:00
 
 ## Bestätigte Dubstep-Events (1)
 
@@ -9,7 +9,12 @@ Stand: 2026-10-07T07:18:22.052083+00:00
   https://ra.co/events/2490735
   Grund: RA-Genre-Tag des Events: Dubstep
 
-## Bass-nahe Events, nicht eindeutig Dubstep (3)
+## Bass-nahe Events, nicht eindeutig Dubstep (5)
+
+- [bass-nah] 2026-10-11 — **LIVE Modeselektor** @ Grelle Forelle
+  Lineup: Modeselektor
+  https://ra.co/events/2545843
+  Grund: Artist 'Modeselektor' bass-nahe Historie: bass
 
 - [bass-nah] 2026-10-24 — **INTRIKAT x perмa** @ FLUCC
   Lineup: Kid Kodama, GEN-Z
@@ -25,4 +30,9 @@ Stand: 2026-10-07T07:18:22.052083+00:00
   Lineup: Afem Syko, Lisa Korver, Ben Derris, Linus Villa, Sophti, Sony2k, maro, Max Wagner, WO.IZZY, Kat Ze
   https://ra.co/events/2544505
   Grund: Artist 'Sophti' bass-nahe Historie: bass
+
+- [bass-nah] 2026-11-07 — **served invites Harmony Rec. x hereandthere** @ TBA
+  Lineup: anxxxious_t, Ayū (1), Georgia Bird, MELIMEKO, Menal Batti, Pink Concrete, saschka, Yan (CZ)
+  https://ra.co/events/2542405
+  Grund: Artist 'Yan (CZ)' bass-nahe Historie: bass
 
