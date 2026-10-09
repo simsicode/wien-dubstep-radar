@@ -217,6 +217,15 @@
     ],
     "name": "E.LINA"
   },
+  "111437": {
+    "fetched_at": 1791530527,
+    "genres": [
+      "Techno",
+      "Techno",
+      "Tech House"
+    ],
+    "name": "URBANIST"
+  },
   "111676": {
     "fetched_at": 1791222705,
     "genres": [
@@ -295,6 +304,19 @@
     ],
     "name": "AVO2X"
   },
+  "120884": {
+    "fetched_at": 1791530526,
+    "genres": [
+      "Techno",
+      "Deep House",
+      "Techno",
+      "Club",
+      "Techno",
+      "Techno",
+      "Tech House"
+    ],
+    "name": "Albin Brezlan"
+  },
   "121018": {
     "fetched_at": 1791222710,
     "genres": [
@@ -357,6 +379,14 @@
       "Techno"
     ],
     "name": "Janis Zielinski"
+  },
+  "124368": {
+    "fetched_at": 1791530531,
+    "genres": [
+      "Techno",
+      "Minimal Techno"
+    ],
+    "name": "Nya Nyx"
   },
   "124614": {
     "fetched_at": 1791222737,
@@ -461,6 +491,14 @@
     ],
     "name": "Dcascallana"
   },
+  "130641": {
+    "fetched_at": 1791530530,
+    "genres": [
+      "Techno",
+      "Minimal Techno"
+    ],
+    "name": "David Phoenix"
+  },
   "131071": {
     "fetched_at": 1791222708,
     "genres": [
@@ -539,6 +577,20 @@
       "Progressive House"
     ],
     "name": "Fede Frostl"
+  },
+  "134744": {
+    "fetched_at": 1791530523,
+    "genres": [
+      "House"
+    ],
+    "name": "It's George!"
+  },
+  "135084": {
+    "fetched_at": 1791530524,
+    "genres": [
+      "House"
+    ],
+    "name": "Techno Ganoven"
   },
   "135383": {
     "fetched_at": 1791357495,
@@ -813,6 +865,26 @@
     ],
     "name": "Jolliffe"
   },
+  "151631": {
+    "fetched_at": 1791530529,
+    "genres": [
+      "Progressive House",
+      "Techno",
+      "Techno",
+      "Minimal Techno",
+      "Techno",
+      "House"
+    ],
+    "name": "NoNameLeft"
+  },
+  "151973": {
+    "fetched_at": 1791530521,
+    "genres": [
+      "Techno",
+      "Techno"
+    ],
+    "name": "THURI"
+  },
   "152233": {
     "fetched_at": 1791222714,
     "genres": [
@@ -973,6 +1045,14 @@
     ],
     "name": "Nugi"
   },
+  "161565": {
+    "fetched_at": 1791530522,
+    "genres": [
+      "Techno",
+      "Techno"
+    ],
+    "name": "DJ Wolle"
+  },
   "161825": {
     "fetched_at": 1791222732,
     "genres": [
@@ -1017,6 +1097,13 @@
     ],
     "name": "CPR0"
   },
+  "164278": {
+    "fetched_at": 1791530528,
+    "genres": [
+      "Techno"
+    ],
+    "name": "VIBECHEN"
+  },
   "165697": {
     "fetched_at": 1791222744,
     "genres": [
@@ -1052,6 +1139,13 @@
       "Industrial"
     ],
     "name": "ZMØRA"
+  },
+  "166927": {
+    "fetched_at": 1791530526,
+    "genres": [
+      "House"
+    ],
+    "name": "Rayya"
   },
   "167268": {
     "fetched_at": 1791222710,
@@ -1203,12 +1297,26 @@
     ],
     "name": "ZEQ (1)"
   },
+  "178923": {
+    "fetched_at": 1791530523,
+    "genres": [
+      "House"
+    ],
+    "name": "RED GROOVE SYSTEM"
+  },
   "179359": {
     "fetched_at": 1791222750,
     "genres": [
       "Techno"
     ],
     "name": "KJAER"
+  },
+  "179399": {
+    "fetched_at": 1791530521,
+    "genres": [
+      "Techno"
+    ],
+    "name": "Simonkannnix"
   },
   "179911": {
     "fetched_at": 1791222736,
@@ -1288,6 +1396,14 @@
     ],
     "name": "pengg"
   },
+  "186417": {
+    "fetched_at": 1791530524,
+    "genres": [
+      "Disco",
+      "Balearic"
+    ],
+    "name": "hiff"
+  },
   "186715": {
     "fetched_at": 1791443926,
     "genres": [],
@@ -1315,6 +1431,14 @@
       "Techno"
     ],
     "name": "REIKA_DJ"
+  },
+  "188881": {
+    "fetched_at": 1791530520,
+    "genres": [
+      "Techno",
+      "Minimal Techno"
+    ],
+    "name": "Asmo Deus"
   },
   "189365": {
     "fetched_at": 1791357492,
@@ -1361,6 +1485,21 @@
     ],
     "name": "Sam Paganini"
   },
+  "2265": {
+    "fetched_at": 1791530522,
+    "genres": [
+      "House"
+    ],
+    "name": "Reboot"
+  },
+  "22691": {
+    "fetched_at": 1791530529,
+    "genres": [
+      "Techno",
+      "Industrial"
+    ],
+    "name": "Roton"
+  },
   "25216": {
     "fetched_at": 1791222711,
     "genres": [],
@@ -1385,6 +1524,17 @@
       "House"
     ],
     "name": "Reeno Reluv"
+  },
+  "27828": {
+    "fetched_at": 1791530528,
+    "genres": [
+      "Techno",
+      "Electronica",
+      "Techno",
+      "Industrial",
+      "Techno"
+    ],
+    "name": "Michel Lauriola"
   },
   "28": {
     "fetched_at": 1791222706,
@@ -1429,6 +1579,16 @@
       "House"
     ],
     "name": "Kirill Kirik"
+  },
+  "3387": {
+    "fetched_at": 1791530530,
+    "genres": [
+      "Techno",
+      "Tech House",
+      "Techno",
+      "Minimal Techno"
+    ],
+    "name": "Mateo"
   },
   "34666": {
     "fetched_at": 1791222713,
@@ -1523,6 +1683,16 @@
     ],
     "name": "Demuja"
   },
+  "46830": {
+    "fetched_at": 1791530527,
+    "genres": [
+      "Techno",
+      "Techno",
+      "Techno",
+      "Techno"
+    ],
+    "name": "Jayzo"
+  },
   "4788": {
     "fetched_at": 1791222726,
     "genres": [
@@ -1615,6 +1785,21 @@
     ],
     "name": "Prismode"
   },
+  "59578": {
+    "fetched_at": 1791530525,
+    "genres": [
+      "House"
+    ],
+    "name": "Felix Rupprecht"
+  },
+  "66949": {
+    "fetched_at": 1791530529,
+    "genres": [
+      "Techno",
+      "Industrial"
+    ],
+    "name": "Hetum"
+  },
   "67322": {
     "fetched_at": 1791222740,
     "genres": [
@@ -1640,6 +1825,18 @@
       "Techno"
     ],
     "name": "Chicano"
+  },
+  "70230": {
+    "fetched_at": 1791530526,
+    "genres": [
+      "House",
+      "Techno",
+      "House",
+      "House",
+      "Techno",
+      "House"
+    ],
+    "name": "Pancratio"
   },
   "7290": {
     "fetched_at": 1791222749,
@@ -1752,6 +1949,14 @@
       "Club"
     ],
     "name": "Modeselektor"
+  },
+  "84718": {
+    "fetched_at": 1791530525,
+    "genres": [
+      "Techno",
+      "Electro"
+    ],
+    "name": "Jan Ehret"
   },
   "90691": {
     "fetched_at": 1791443930,
