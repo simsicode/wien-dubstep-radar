@@ -6,6 +6,11 @@
     ],
     "name": "RIFF RUFF"
   },
+  "101444": {
+    "fetched_at": 1791616320,
+    "genres": [],
+    "name": "Lucia Kagramanyan"
+  },
   "102386": {
     "fetched_at": 1791222739,
     "genres": [
@@ -71,12 +76,29 @@
     ],
     "name": "KLING&KLANG"
   },
+  "105909": {
+    "fetched_at": 1791616323,
+    "genres": [
+      "Techno",
+      "Electronica"
+    ],
+    "name": "Waldo"
+  },
   "106355": {
     "fetched_at": 1791357497,
     "genres": [
       "House"
     ],
     "name": "Dzc."
+  },
+  "106870": {
+    "fetched_at": 1791616324,
+    "genres": [
+      "Techno",
+      "Techno",
+      "Techno"
+    ],
+    "name": "Neon Graveyard"
   },
   "107473": {
     "fetched_at": 1791222742,
@@ -286,6 +308,15 @@
       "Minimal Techno"
     ],
     "name": "Huebl"
+  },
+  "119275": {
+    "fetched_at": 1791616321,
+    "genres": [
+      "Techno",
+      "Club",
+      "House"
+    ],
+    "name": "KnownArtist"
   },
   "119892": {
     "fetched_at": 1791222728,
@@ -632,6 +663,22 @@
     ],
     "name": "Sophti"
   },
+  "138260": {
+    "fetched_at": 1791616322,
+    "genres": [
+      "House"
+    ],
+    "name": "Leon Diamant"
+  },
+  "138563": {
+    "fetched_at": 1791616326,
+    "genres": [
+      "Progressive House",
+      "Techno",
+      "Techno"
+    ],
+    "name": "Rui de Janeiro"
+  },
   "138860": {
     "fetched_at": 1791222735,
     "genres": [
@@ -901,6 +948,13 @@
     ],
     "name": "Sony2k"
   },
+  "153972": {
+    "fetched_at": 1791616325,
+    "genres": [
+      "Techno"
+    ],
+    "name": "Farbod"
+  },
   "154045": {
     "fetched_at": 1791222740,
     "genres": [
@@ -941,6 +995,14 @@
     ],
     "name": "pinklotion"
   },
+  "155879": {
+    "fetched_at": 1791616321,
+    "genres": [
+      "House",
+      "House"
+    ],
+    "name": "IKARIOS"
+  },
   "15607": {
     "fetched_at": 1791222727,
     "genres": [
@@ -948,6 +1010,13 @@
       "Disco"
     ],
     "name": "Lee Stevens"
+  },
+  "157820": {
+    "fetched_at": 1791616322,
+    "genres": [
+      "House"
+    ],
+    "name": "solala"
   },
   "157986": {
     "fetched_at": 1791222733,
@@ -1066,6 +1135,11 @@
     "genres": [],
     "name": "Altroy Jerome"
   },
+  "162926": {
+    "fetched_at": 1791616322,
+    "genres": [],
+    "name": "miaw"
+  },
   "163418": {
     "fetched_at": 1791357501,
     "genres": [
@@ -1166,6 +1240,11 @@
       "Balearic"
     ],
     "name": "Olf"
+  },
+  "170013": {
+    "fetched_at": 1791616320,
+    "genres": [],
+    "name": "Theodora"
   },
   "170472": {
     "fetched_at": 1791222742,
@@ -1289,6 +1368,13 @@
     ],
     "name": "foxloe"
   },
+  "177282": {
+    "fetched_at": 1791616324,
+    "genres": [
+      "Techno"
+    ],
+    "name": "ASCHENBRENNER"
+  },
   "177313": {
     "fetched_at": 1791222705,
     "genres": [
@@ -1296,6 +1382,13 @@
       "Techno"
     ],
     "name": "ZEQ (1)"
+  },
+  "178753": {
+    "fetched_at": 1791616325,
+    "genres": [
+      "Techno"
+    ],
+    "name": "PRAKAS"
   },
   "178923": {
     "fetched_at": 1791530523,
@@ -1331,6 +1424,14 @@
       "Techno"
     ],
     "name": "Aleta"
+  },
+  "181255": {
+    "fetched_at": 1791616319,
+    "genres": [
+      "Breakbeat",
+      "Garage"
+    ],
+    "name": "Tence"
   },
   "181497": {
     "fetched_at": 1791443932,
@@ -1499,6 +1600,13 @@
       "Industrial"
     ],
     "name": "Roton"
+  },
+  "23081": {
+    "fetched_at": 1791616325,
+    "genres": [
+      "Techno"
+    ],
+    "name": "Alex TB"
   },
   "25216": {
     "fetched_at": 1791222711,
@@ -1791,6 +1899,13 @@
       "House"
     ],
     "name": "Felix Rupprecht"
+  },
+  "66829": {
+    "fetched_at": 1791616323,
+    "genres": [
+      "Techno"
+    ],
+    "name": "Lorenzo Raganzini"
   },
   "66949": {
     "fetched_at": 1791530529,
