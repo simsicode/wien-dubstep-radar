@@ -1,6 +1,6 @@
 # Wien Dubstep Radar
 
-Stand: 2026-10-11T07:12:02.062379+00:00
+Stand: 2026-10-12T07:24:30.754319+00:00
 
 ## Bestätigte Dubstep-Events (1)
 
@@ -9,12 +9,7 @@ Stand: 2026-10-11T07:12:02.062379+00:00
   https://ra.co/events/2490735
   Grund: RA-Genre-Tag des Events: Dubstep
 
-## Bass-nahe Events, nicht eindeutig Dubstep (5)
-
-- [bass-nah] 2026-10-11 — **LIVE Modeselektor** @ Grelle Forelle
-  Lineup: Modeselektor
-  https://ra.co/events/2545843
-  Grund: Artist 'Modeselektor' bass-nahe Historie: bass
+## Bass-nahe Events, nicht eindeutig Dubstep (4)
 
 - [bass-nah] 2026-10-24 — **INTRIKAT x perмa** @ FLUCC
   Lineup: Kid Kodama, GEN-Z

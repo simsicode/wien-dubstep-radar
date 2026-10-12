@@ -919,6 +919,14 @@
     ],
     "name": "Jolliffe"
   },
+  "151015": {
+    "fetched_at": 1791789870,
+    "genres": [
+      "Trance",
+      "Techno"
+    ],
+    "name": "Chiara Allnutt"
+  },
   "151631": {
     "fetched_at": 1791530529,
     "genres": [
@@ -2167,6 +2175,15 @@
       "Minimal Techno"
     ],
     "name": "INESSA"
+  },
+  "990": {
+    "fetched_at": 1791789870,
+    "genres": [
+      "Techno",
+      "House",
+      "Tech House"
+    ],
+    "name": "Karotte"
   },
   "996": {
     "fetched_at": 1791222710,
