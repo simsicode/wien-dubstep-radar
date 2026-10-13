@@ -390,6 +390,14 @@
     ],
     "name": "Danya (DE)"
   },
+  "123442": {
+    "fetched_at": 1791875924,
+    "genres": [
+      "Trance",
+      "Techno"
+    ],
+    "name": "KRAWALLBARBIE"
+  },
   "123820": {
     "fetched_at": 1791222707,
     "genres": [
@@ -501,6 +509,13 @@
       "Techno"
     ],
     "name": "Ben Derris"
+  },
+  "128149": {
+    "fetched_at": 1791875924,
+    "genres": [
+      "Techno"
+    ],
+    "name": "Peter Pan"
   },
   "128159": {
     "fetched_at": 1791222730,
@@ -910,6 +925,13 @@
       "Acid"
     ],
     "name": "Hannah mit Hut"
+  },
+  "150738": {
+    "fetched_at": 1791875925,
+    "genres": [
+      "Techno"
+    ],
+    "name": "JP eXbert"
   },
   "150913": {
     "fetched_at": 1791443925,
@@ -1752,6 +1774,18 @@
     ],
     "name": "Apua"
   },
+  "41146": {
+    "fetched_at": 1791875925,
+    "genres": [
+      "Techno",
+      "Techno",
+      "Techno",
+      "House",
+      "Techno",
+      "Techno"
+    ],
+    "name": "KlangKuenstler"
+  },
   "41589": {
     "fetched_at": 1791222705,
     "genres": [
@@ -1866,6 +1900,31 @@
     ],
     "name": "Franziska Berns"
   },
+  "50261": {
+    "fetched_at": 1791875926,
+    "genres": [
+      "Techno",
+      "Acid",
+      "Techno",
+      "House",
+      "Techno",
+      "Electronica",
+      "Techno",
+      "Techno",
+      "Techno",
+      "House",
+      "Techno",
+      "Techno",
+      "Industrial",
+      "Techno",
+      "Techno",
+      "Techno",
+      "Techno",
+      "Techno",
+      "Techno"
+    ],
+    "name": "SHDW"
+  },
   "52470": {
     "fetched_at": 1791222708,
     "genres": [
@@ -1888,6 +1947,24 @@
       "Tech House"
     ],
     "name": "Andy Catana"
+  },
+  "58202": {
+    "fetched_at": 1791875926,
+    "genres": [
+      "Techno",
+      "Hardcore",
+      "Techno",
+      "Trance",
+      "Techno",
+      "Techno",
+      "Techno",
+      "Tech House",
+      "Techno",
+      "Industrial",
+      "Techno",
+      "Techno"
+    ],
+    "name": "Svetec"
   },
   "59109": {
     "fetched_at": 1791222750,
