@@ -449,6 +449,22 @@
     ],
     "name": "schereph"
   },
+  "124713": {
+    "fetched_at": 1792048489,
+    "genres": [
+      "Electro",
+      "Pop",
+      "Progressive House",
+      "Tech House",
+      "Trance",
+      "Techno",
+      "House",
+      "Tech House",
+      "Trance",
+      "Techno"
+    ],
+    "name": "DBBD"
+  },
   "125087": {
     "fetched_at": 1791443931,
     "genres": [
@@ -671,6 +687,22 @@
     ],
     "name": "Who is ela¿"
   },
+  "135857": {
+    "fetched_at": 1792048489,
+    "genres": [
+      "Trance",
+      "Techno"
+    ],
+    "name": "Spud Bencer"
+  },
+  "136994": {
+    "fetched_at": 1792048490,
+    "genres": [
+      "Trance",
+      "Techno"
+    ],
+    "name": "DJ Backstage"
+  },
   "137769": {
     "fetched_at": 1791962360,
     "genres": [
@@ -686,6 +718,13 @@
       "Techno"
     ],
     "name": "Dan.P"
+  },
+  "138109": {
+    "fetched_at": 1792048487,
+    "genres": [
+      "Techno"
+    ],
+    "name": "MEIOSISS"
   },
   "138201": {
     "fetched_at": 1791443925,
@@ -792,6 +831,11 @@
     ],
     "name": "Josefina Tapia (2)"
   },
+  "142848": {
+    "fetched_at": 1792048486,
+    "genres": [],
+    "name": "DJ Keshi"
+  },
   "144646": {
     "fetched_at": 1791222726,
     "genres": [
@@ -799,6 +843,11 @@
       "Pop"
     ],
     "name": "DJ Deadlift"
+  },
+  "144744": {
+    "fetched_at": 1792048488,
+    "genres": [],
+    "name": "Qamareen"
   },
   "145066": {
     "fetched_at": 1791222701,
@@ -1002,6 +1051,13 @@
     ],
     "name": "Catenation"
   },
+  "153569": {
+    "fetched_at": 1792048487,
+    "genres": [
+      "Techno"
+    ],
+    "name": "Lila Gold (2)"
+  },
   "153947": {
     "fetched_at": 1791222746,
     "genres": [
@@ -1080,6 +1136,11 @@
     ],
     "name": "Lee Stevens"
   },
+  "156479": {
+    "fetched_at": 1792048488,
+    "genres": [],
+    "name": "Abu Naima"
+  },
   "156971": {
     "fetched_at": 1791962362,
     "genres": [
@@ -1109,6 +1170,14 @@
       "Techno"
     ],
     "name": "Leen Tilt"
+  },
+  "159291": {
+    "fetched_at": 1792048485,
+    "genres": [
+      "Techno",
+      "House"
+    ],
+    "name": "Fil Palmer"
   },
   "159337": {
     "fetched_at": 1791443927,
@@ -1582,6 +1651,14 @@
       "House"
     ],
     "name": "Chruzo"
+  },
+  "184361": {
+    "fetched_at": 1792048485,
+    "genres": [
+      "Trance",
+      "Techno"
+    ],
+    "name": "VIERZUDREI"
   },
   "185969": {
     "fetched_at": 1791222738,
@@ -2263,6 +2340,15 @@
       "Disco"
     ],
     "name": "Peletronic"
+  },
+  "95613": {
+    "fetched_at": 1792048486,
+    "genres": [
+      "Techno",
+      "Techno",
+      "Experimental"
+    ],
+    "name": "Oxygeno"
   },
   "95948": {
     "fetched_at": 1791222748,
