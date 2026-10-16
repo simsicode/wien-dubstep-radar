@@ -84,6 +84,11 @@
     ],
     "name": "Waldo"
   },
+  "106106": {
+    "fetched_at": 1792134806,
+    "genres": [],
+    "name": "Arman Shadow"
+  },
   "106355": {
     "fetched_at": 1791357497,
     "genres": [
@@ -503,6 +508,26 @@
     ],
     "name": "KAROLINA"
   },
+  "126701": {
+    "fetched_at": 1792134807,
+    "genres": [
+      "Techno",
+      "Techno",
+      "Techno",
+      "House",
+      "Techno",
+      "Techno",
+      "Techno",
+      "Techno",
+      "Techno"
+    ],
+    "name": "Toobris"
+  },
+  "126909": {
+    "fetched_at": 1792134809,
+    "genres": [],
+    "name": "LUZZT"
+  },
   "126926": {
     "fetched_at": 1791357501,
     "genres": [
@@ -703,6 +728,11 @@
     ],
     "name": "DJ Backstage"
   },
+  "137604": {
+    "fetched_at": 1792134807,
+    "genres": [],
+    "name": "AMBROXAN"
+  },
   "137769": {
     "fetched_at": 1791962360,
     "genres": [
@@ -854,6 +884,13 @@
     "genres": [],
     "name": "Rent (1)"
   },
+  "145301": {
+    "fetched_at": 1792134809,
+    "genres": [
+      "Hardcore"
+    ],
+    "name": "Dj Wifi (3)"
+  },
   "145575": {
     "fetched_at": 1791222723,
     "genres": [
@@ -861,6 +898,29 @@
       "R&B"
     ],
     "name": "anxxxious_t"
+  },
+  "146034": {
+    "fetched_at": 1792134806,
+    "genres": [
+      "Trance",
+      "Techno",
+      "Trance",
+      "Techno",
+      "Trance",
+      "Techno",
+      "Trance",
+      "Techno",
+      "Trance",
+      "Trance",
+      "Techno",
+      "Trance",
+      "Techno",
+      "Trance",
+      "Techno",
+      "Trance",
+      "Techno"
+    ],
+    "name": "Limoncello"
   },
   "146174": {
     "fetched_at": 1791222714,
@@ -884,6 +944,11 @@
       "Techno"
     ],
     "name": "Anna Ullrich"
+  },
+  "146945": {
+    "fetched_at": 1792134810,
+    "genres": [],
+    "name": "Qaoz"
   },
   "147080": {
     "fetched_at": 1791443932,
@@ -931,6 +996,14 @@
       "Garage"
     ],
     "name": "DJ.org"
+  },
+  "147559": {
+    "fetched_at": 1792134808,
+    "genres": [
+      "Techno",
+      "Techno"
+    ],
+    "name": "Artifex (DE)"
   },
   "147613": {
     "fetched_at": 1791222716,
@@ -982,6 +1055,23 @@
       "Tech House"
     ],
     "name": "Max Styler"
+  },
+  "149329": {
+    "fetched_at": 1792134805,
+    "genres": [
+      "Trance",
+      "Techno",
+      "Trance",
+      "Techno",
+      "Trance",
+      "Techno",
+      "Trance",
+      "Techno",
+      "Trance",
+      "Techno",
+      "Techno"
+    ],
+    "name": "DETOXX"
   },
   "149803": {
     "fetched_at": 1791357493,
@@ -1164,6 +1254,13 @@
     ],
     "name": "GEN-Z"
   },
+  "158587": {
+    "fetched_at": 1792134807,
+    "genres": [
+      "Techno"
+    ],
+    "name": "Telicho"
+  },
   "158859": {
     "fetched_at": 1791357496,
     "genres": [
@@ -1288,6 +1385,13 @@
     "fetched_at": 1791222728,
     "genres": [],
     "name": "Altroy Jerome"
+  },
+  "162311": {
+    "fetched_at": 1792134808,
+    "genres": [
+      "Techno"
+    ],
+    "name": "Melchiorr"
   },
   "162926": {
     "fetched_at": 1791616322,
@@ -1559,6 +1663,18 @@
     ],
     "name": "RED GROOVE SYSTEM"
   },
+  "179110": {
+    "fetched_at": 1792134805,
+    "genres": [
+      "Progressive House",
+      "Electro",
+      "Disco",
+      "Funk / Soul",
+      "Electro",
+      "Funk / Soul"
+    ],
+    "name": "HugoXL"
+  },
   "179359": {
     "fetched_at": 1791222750,
     "genres": [
@@ -1636,6 +1752,14 @@
       "Tech House"
     ],
     "name": "Magsi"
+  },
+  "182739": {
+    "fetched_at": 1792134804,
+    "genres": [
+      "Techno",
+      "Dub Techno"
+    ],
+    "name": "Mize Hetner"
   },
   "182972": {
     "fetched_at": 1791222712,
@@ -2065,6 +2189,13 @@
     ],
     "name": "Scheibosan"
   },
+  "56812": {
+    "fetched_at": 1792134811,
+    "genres": [
+      "Techno"
+    ],
+    "name": "Anatol"
+  },
   "5696": {
     "fetched_at": 1791222731,
     "genres": [
@@ -2124,6 +2255,16 @@
       "House"
     ],
     "name": "Felix Rupprecht"
+  },
+  "62163": {
+    "fetched_at": 1792134810,
+    "genres": [
+      "Techno",
+      "Techno",
+      "Techno",
+      "Techno"
+    ],
+    "name": "Tham"
   },
   "66829": {
     "fetched_at": 1791616323,
