@@ -48,6 +48,23 @@
     ],
     "name": "Afem Syko"
   },
+  "10350": {
+    "fetched_at": 1792221084,
+    "genres": [
+      "Techno",
+      "House",
+      "House",
+      "Techno",
+      "House",
+      "House",
+      "Italo Disco",
+      "Techno",
+      "House",
+      "House",
+      "Techno"
+    ],
+    "name": "Massimiliano Pagliara"
+  },
   "103842": {
     "fetched_at": 1791443930,
     "genres": [
@@ -294,6 +311,13 @@
     ],
     "name": "plastiktanz"
   },
+  "114726": {
+    "fetched_at": 1792221083,
+    "genres": [
+      "House"
+    ],
+    "name": "Anni Herzer"
+  },
   "117117": {
     "fetched_at": 1791222736,
     "genres": [
@@ -477,6 +501,13 @@
       "House"
     ],
     "name": "saschka"
+  },
+  "12598": {
+    "fetched_at": 1792221082,
+    "genres": [
+      "House"
+    ],
+    "name": "Roman Rauch"
   },
   "126201": {
     "fetched_at": 1791222703,
@@ -815,6 +846,13 @@
     ],
     "name": "ENJA"
   },
+  "139817": {
+    "fetched_at": 1792221083,
+    "genres": [
+      "House"
+    ],
+    "name": "Joules (AT)"
+  },
   "140825": {
     "fetched_at": 1791222746,
     "genres": [
@@ -865,6 +903,13 @@
     "fetched_at": 1792048486,
     "genres": [],
     "name": "DJ Keshi"
+  },
+  "144267": {
+    "fetched_at": 1792221082,
+    "genres": [
+      "House"
+    ],
+    "name": "LizN"
   },
   "144646": {
     "fetched_at": 1791222726,
@@ -1253,6 +1298,11 @@
       "Jungle"
     ],
     "name": "GEN-Z"
+  },
+  "158077": {
+    "fetched_at": 1792221081,
+    "genres": [],
+    "name": "Oko Oko"
   },
   "158587": {
     "fetched_at": 1792134807,
@@ -1753,6 +1803,13 @@
     ],
     "name": "Magsi"
   },
+  "182345": {
+    "fetched_at": 1792221082,
+    "genres": [
+      "House"
+    ],
+    "name": "NooK (2)"
+  },
   "182739": {
     "fetched_at": 1792134804,
     "genres": [
@@ -2181,6 +2238,15 @@
     ],
     "name": "Reika"
   },
+  "53005": {
+    "fetched_at": 1792221081,
+    "genres": [
+      "Hip-Hop",
+      "Post-Punk",
+      "Electronica"
+    ],
+    "name": "Mykki Blanco"
+  },
   "56473": {
     "fetched_at": 1791270928,
     "genres": [
@@ -2265,6 +2331,34 @@
       "Techno"
     ],
     "name": "Tham"
+  },
+  "63972": {
+    "fetched_at": 1792221085,
+    "genres": [
+      "Experimental",
+      "Pop",
+      "Drum & Bass"
+    ],
+    "name": "Nexus"
+  },
+  "64160": {
+    "fetched_at": 1792221084,
+    "genres": [
+      "Techno",
+      "House",
+      "House",
+      "Acid",
+      "House",
+      "Techno",
+      "House",
+      "Techno",
+      "House",
+      "House",
+      "House",
+      "Techno",
+      "House"
+    ],
+    "name": "Jorkes"
   },
   "66829": {
     "fetched_at": 1791616323,
@@ -2395,6 +2489,11 @@
     ],
     "name": "Authentically Plastic"
   },
+  "83199": {
+    "fetched_at": 1792221080,
+    "genres": [],
+    "name": "Misonica"
+  },
   "83447": {
     "fetched_at": 1791443931,
     "genres": [
@@ -2439,6 +2538,11 @@
     ],
     "name": "Jan Ehret"
   },
+  "90078": {
+    "fetched_at": 1792221085,
+    "genres": [],
+    "name": "Sami"
+  },
   "90691": {
     "fetched_at": 1791443930,
     "genres": [
@@ -2481,6 +2585,18 @@
       "Disco"
     ],
     "name": "Peletronic"
+  },
+  "93775": {
+    "fetched_at": 1792221085,
+    "genres": [
+      "Dub",
+      "Experimental",
+      "Bass",
+      "Downtempo",
+      "Bass",
+      "Footwork"
+    ],
+    "name": "k means"
   },
   "95613": {
     "fetched_at": 1792048486,
