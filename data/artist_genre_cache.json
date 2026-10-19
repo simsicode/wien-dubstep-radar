@@ -11,6 +11,20 @@
     "genres": [],
     "name": "Lucia Kagramanyan"
   },
+  "101742": {
+    "fetched_at": 1792394312,
+    "genres": [
+      "House",
+      "Disco",
+      "Funk / Soul",
+      "Italo Disco",
+      "House",
+      "Disco",
+      "House",
+      "Disco"
+    ],
+    "name": "Tom Kutsche"
+  },
   "102386": {
     "fetched_at": 1791222739,
     "genres": [
@@ -678,6 +692,13 @@
     ],
     "name": "Space Disco"
   },
+  "132414": {
+    "fetched_at": 1792394311,
+    "genres": [
+      "House"
+    ],
+    "name": "Valentin Zelz"
+  },
   "132765": {
     "fetched_at": 1791222708,
     "genres": [
@@ -750,6 +771,14 @@
       "Techno"
     ],
     "name": "Spud Bencer"
+  },
+  "136983": {
+    "fetched_at": 1792394310,
+    "genres": [
+      "Techno",
+      "Hardcore"
+    ],
+    "name": "adrialin"
   },
   "136994": {
     "fetched_at": 1792048490,
@@ -836,6 +865,22 @@
       "Techno"
     ],
     "name": "Felinae"
+  },
+  "139543": {
+    "fetched_at": 1792394311,
+    "genres": [
+      "House",
+      "Deep House",
+      "Techno",
+      "House",
+      "Garage",
+      "Tech House",
+      "Progressive House",
+      "House",
+      "House",
+      "House"
+    ],
+    "name": "Andre Zimmer"
   },
   "139725": {
     "fetched_at": 1791222704,
@@ -1275,6 +1320,14 @@
     "fetched_at": 1792048488,
     "genres": [],
     "name": "Abu Naima"
+  },
+  "156887": {
+    "fetched_at": 1792394310,
+    "genres": [
+      "Techno",
+      "Hardcore"
+    ],
+    "name": "Enoltra"
   },
   "156971": {
     "fetched_at": 1791962362,
@@ -2071,6 +2124,30 @@
       "Electronica"
     ],
     "name": "Bob Moses"
+  },
+  "3760": {
+    "fetched_at": 1792394312,
+    "genres": [
+      "House",
+      "Techno",
+      "Tech House",
+      "Techno",
+      "House",
+      "Techno",
+      "House",
+      "Techno",
+      "House",
+      "House",
+      "Disco",
+      "Techno",
+      "House",
+      "Techno",
+      "House",
+      "Minimal Techno",
+      "House",
+      "Disco"
+    ],
+    "name": "Gerd Janson"
   },
   "38005": {
     "fetched_at": 1791222741,
