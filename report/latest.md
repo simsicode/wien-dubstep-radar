@@ -1,6 +1,6 @@
 # Wien Dubstep Radar
 
-Stand: 2026-10-19T07:18:32.735780+00:00
+Stand: 2026-10-20T07:14:55.423984+00:00
 
 ## Bestätigte Dubstep-Events (1)
 
@@ -9,7 +9,7 @@ Stand: 2026-10-19T07:18:32.735780+00:00
   https://ra.co/events/2490735
   Grund: RA-Genre-Tag des Events: Dubstep
 
-## Bass-nahe Events, nicht eindeutig Dubstep (5)
+## Bass-nahe Events, nicht eindeutig Dubstep (6)
 
 - [bass-nah] 2026-10-24 — **INTRIKAT x perмa** @ FLUCC
   Lineup: Kid Kodama, GEN-Z
@@ -35,4 +35,9 @@ Stand: 2026-10-19T07:18:32.735780+00:00
   Lineup: anxxxious_t, Ayū (1), Georgia Bird, MELIMEKO, Menal Batti, Pink Concrete, saschka, Yan (CZ)
   https://ra.co/events/2542405
   Grund: Artist 'Yan (CZ)' bass-nahe Historie: bass
+
+- [bass-nah] 2026-12-19 — **sama recordings pres. s c h w e b e n** @ Celeste
+  Lineup: Ambient Animal, Tanja Turner
+  https://ra.co/events/2564517
+  Grund: RA-Genre-Tag(s) des Events bass-nah: bass
 

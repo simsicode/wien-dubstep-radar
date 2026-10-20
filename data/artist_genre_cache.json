@@ -405,6 +405,14 @@
     ],
     "name": "Thommy Coconut"
   },
+  "121355": {
+    "fetched_at": 1792480486,
+    "genres": [
+      "Techno",
+      "House"
+    ],
+    "name": "Afrodite (2)"
+  },
   "121638": {
     "fetched_at": 1791222743,
     "genres": [
@@ -432,6 +440,11 @@
       "Techno"
     ],
     "name": "Danya (DE)"
+  },
+  "123252": {
+    "fetched_at": 1792480485,
+    "genres": [],
+    "name": "Nsasi"
   },
   "123442": {
     "fetched_at": 1791875924,
@@ -595,6 +608,14 @@
       "Techno"
     ],
     "name": "Ben Derris"
+  },
+  "128036": {
+    "fetched_at": 1792480490,
+    "genres": [
+      "House",
+      "Afro House"
+    ],
+    "name": "Mat Schubert"
   },
   "128149": {
     "fetched_at": 1791875924,
@@ -905,6 +926,14 @@
     ],
     "name": "Max Wagner"
   },
+  "141455": {
+    "fetched_at": 1792480491,
+    "genres": [
+      "Trance",
+      "Techno"
+    ],
+    "name": "BLUDHOUND"
+  },
   "141765": {
     "fetched_at": 1791222729,
     "genres": [
@@ -955,6 +984,11 @@
       "House"
     ],
     "name": "LizN"
+  },
+  "144387": {
+    "fetched_at": 1792480487,
+    "genres": [],
+    "name": "MARAws"
   },
   "144646": {
     "fetched_at": 1791222726,
@@ -1171,6 +1205,14 @@
     ],
     "name": "DJ SHADY MF"
   },
+  "150001": {
+    "fetched_at": 1792480494,
+    "genres": [
+      "House",
+      "Dub Techno"
+    ],
+    "name": "PJPJPJ"
+  },
   "150201": {
     "fetched_at": 1791222735,
     "genres": [
@@ -1230,6 +1272,21 @@
       "Industrial"
     ],
     "name": "Catenation"
+  },
+  "153271": {
+    "fetched_at": 1792480489,
+    "genres": [
+      "House"
+    ],
+    "name": "Miyra Lim"
+  },
+  "153455": {
+    "fetched_at": 1792480495,
+    "genres": [
+      "Bass",
+      "Vaporwave"
+    ],
+    "name": "Tanja Turner"
   },
   "153569": {
     "fetched_at": 1792048487,
@@ -1315,6 +1372,19 @@
       "Disco"
     ],
     "name": "Lee Stevens"
+  },
+  "156076": {
+    "fetched_at": 1792480487,
+    "genres": [],
+    "name": "Blue Rose"
+  },
+  "156348": {
+    "fetched_at": 1792480493,
+    "genres": [
+      "House",
+      "Dub Techno"
+    ],
+    "name": "POSI FLO"
   },
   "156479": {
     "fetched_at": 1792048488,
@@ -1476,6 +1546,14 @@
     ],
     "name": "DJ Wolle"
   },
+  "161571": {
+    "fetched_at": 1792480492,
+    "genres": [
+      "Experimental",
+      "Electronica"
+    ],
+    "name": "Adina Camhy"
+  },
   "161825": {
     "fetched_at": 1791222732,
     "genres": [
@@ -1597,6 +1675,22 @@
     ],
     "name": "VOLTMARIE"
   },
+  "167528": {
+    "fetched_at": 1792480490,
+    "genres": [
+      "House",
+      "Afro House"
+    ],
+    "name": "Chiara Valentina"
+  },
+  "168486": {
+    "fetched_at": 1792480492,
+    "genres": [
+      "Experimental",
+      "Electronica"
+    ],
+    "name": "Andrea Ida"
+  },
   "169268": {
     "fetched_at": 1791222731,
     "genres": [],
@@ -1614,6 +1708,14 @@
     "fetched_at": 1791616320,
     "genres": [],
     "name": "Theodora"
+  },
+  "170138": {
+    "fetched_at": 1792480494,
+    "genres": [
+      "Bass",
+      "Vaporwave"
+    ],
+    "name": "Ambient Animal"
   },
   "170472": {
     "fetched_at": 1791222742,
@@ -1751,6 +1853,11 @@
       "Techno"
     ],
     "name": "ZEQ (1)"
+  },
+  "17772": {
+    "fetched_at": 1792480489,
+    "genres": [],
+    "name": "Satu"
   },
   "178753": {
     "fetched_at": 1791616325,
@@ -1972,6 +2079,13 @@
     ],
     "name": "Adam Beyer"
   },
+  "190538": {
+    "fetched_at": 1792480486,
+    "genres": [
+      "Techno"
+    ],
+    "name": "Jake-X"
+  },
   "20063": {
     "fetched_at": 1791222731,
     "genres": [
@@ -2189,6 +2303,14 @@
       "House"
     ],
     "name": "Zombies In Miami"
+  },
+  "42259": {
+    "fetched_at": 1792480491,
+    "genres": [
+      "Experimental",
+      "Electronica"
+    ],
+    "name": "Philipp Otterbach"
   },
   "44831": {
     "fetched_at": 1791222725,
@@ -2471,6 +2593,11 @@
     ],
     "name": "Gerald VDH"
   },
+  "6810": {
+    "fetched_at": 1792480489,
+    "genres": [],
+    "name": "Xing"
+  },
   "68602": {
     "fetched_at": 1791222751,
     "genres": [
@@ -2489,6 +2616,30 @@
       "House"
     ],
     "name": "Pancratio"
+  },
+  "71667": {
+    "fetched_at": 1792480492,
+    "genres": [
+      "Experimental",
+      "Club",
+      "Ambient"
+    ],
+    "name": "Ssaliva"
+  },
+  "727": {
+    "fetched_at": 1792480488,
+    "genres": [
+      "House",
+      "Electronica",
+      "House",
+      "Electronica",
+      "Electro",
+      "Pop",
+      "Electro",
+      "Electro",
+      "Electronica"
+    ],
+    "name": "Digitalism"
   },
   "7290": {
     "fetched_at": 1791222749,
@@ -2545,6 +2696,13 @@
       "Techno"
     ],
     "name": "Sven Vath"
+  },
+  "79615": {
+    "fetched_at": 1792480493,
+    "genres": [
+      "Ambient"
+    ],
+    "name": "Inou Ki Endo"
   },
   "81412": {
     "fetched_at": 1791443929,
@@ -2674,6 +2832,15 @@
       "Footwork"
     ],
     "name": "k means"
+  },
+  "94357": {
+    "fetched_at": 1792480488,
+    "genres": [
+      "Techno",
+      "House",
+      "Disco"
+    ],
+    "name": "Lars Eidinger"
   },
   "95613": {
     "fetched_at": 1792048486,
