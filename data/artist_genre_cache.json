@@ -79,6 +79,17 @@
     ],
     "name": "Massimiliano Pagliara"
   },
+  "103719": {
+    "fetched_at": 1792825894,
+    "genres": [
+      "Techno",
+      "Acid",
+      "Techno",
+      "Electronica",
+      "Techno"
+    ],
+    "name": "Patrick Scuro"
+  },
   "103842": {
     "fetched_at": 1791443930,
     "genres": [
@@ -86,6 +97,14 @@
       "House"
     ],
     "name": "Menal Batti"
+  },
+  "10385": {
+    "fetched_at": 1792825897,
+    "genres": [
+      "Experimental",
+      "Dub Techno"
+    ],
+    "name": "Electric Indigo"
   },
   "104121": {
     "fetched_at": 1791222729,
@@ -238,6 +257,14 @@
       "Trance"
     ],
     "name": "Kyau & Albert"
+  },
+  "109464": {
+    "fetched_at": 1792825896,
+    "genres": [
+      "Techno",
+      "Tech House"
+    ],
+    "name": "Tom Silver"
   },
   "109893": {
     "fetched_at": 1791222712,
@@ -603,6 +630,14 @@
     ],
     "name": "Toobris"
   },
+  "126754": {
+    "fetched_at": 1792825896,
+    "genres": [
+      "Techno",
+      "Acid"
+    ],
+    "name": "Relinquo"
+  },
   "126909": {
     "fetched_at": 1792134809,
     "genres": [],
@@ -911,6 +946,14 @@
       "House"
     ],
     "name": "Leon Diamant"
+  },
+  "138545": {
+    "fetched_at": 1792825895,
+    "genres": [
+      "Techno",
+      "Acid"
+    ],
+    "name": "Patrik Pagan"
   },
   "138563": {
     "fetched_at": 1791616326,
@@ -1394,6 +1437,14 @@
       "R&B"
     ],
     "name": "Shepperd"
+  },
+  "155220": {
+    "fetched_at": 1792825895,
+    "genres": [
+      "Techno",
+      "Acid"
+    ],
+    "name": "Alena Noctis"
   },
   "155834": {
     "fetched_at": 1791222730,
@@ -2273,6 +2324,14 @@
     ],
     "name": "Rhode & Brown"
   },
+  "35522": {
+    "fetched_at": 1792825896,
+    "genres": [
+      "Techno",
+      "Tech House"
+    ],
+    "name": "Dennes Deen"
+  },
   "35544": {
     "fetched_at": 1791222732,
     "genres": [
@@ -2945,6 +3004,14 @@
       "Techno"
     ],
     "name": "Linus Villa"
+  },
+  "97736": {
+    "fetched_at": 1792825897,
+    "genres": [
+      "Experimental",
+      "Dub Techno"
+    ],
+    "name": "Kobermann"
   },
   "97793": {
     "fetched_at": 1791270927,

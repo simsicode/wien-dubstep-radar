@@ -1,13 +1,10 @@
 # Wien Dubstep Radar
 
-Stand: 2026-10-23T07:14:20.291583+00:00
+Stand: 2026-10-24T07:11:37.923548+00:00
 
-## Bestätigte Dubstep-Events (1)
+## Bestätigte Dubstep-Events (0)
 
-- [DUBSTEP] 2026-10-23 — **DUBSTATION VOL. 3** @ Club Lucia
-  Lineup: (kein Lineup gelistet)
-  https://ra.co/events/2490735
-  Grund: RA-Genre-Tag des Events: Dubstep
+Aktuell keine.
 
 ## Bass-nahe Events, nicht eindeutig Dubstep (6)
 
