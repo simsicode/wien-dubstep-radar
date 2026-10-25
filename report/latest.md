@@ -1,17 +1,12 @@
 # Wien Dubstep Radar
 
-Stand: 2026-10-24T07:11:37.923548+00:00
+Stand: 2026-10-25T07:11:53.550430+00:00
 
 ## Bestätigte Dubstep-Events (0)
 
 Aktuell keine.
 
-## Bass-nahe Events, nicht eindeutig Dubstep (6)
-
-- [bass-nah] 2026-10-24 — **INTRIKAT x perмa** @ FLUCC
-  Lineup: Kid Kodama, GEN-Z
-  https://ra.co/events/2544074
-  Grund: RA-Genre-Tag(s) des Events bass-nah: jungle
+## Bass-nahe Events, nicht eindeutig Dubstep (5)
 
 - [bass-nah] 2026-10-31 — **HALLOWEEN at PRST Club with Camion Bazar & Franziska Berns** @ PRST
   Lineup: Camion Bazar, Franziska Berns, Andy Catana, Apua, Rizmo, Reinhard Zach, Stipo
