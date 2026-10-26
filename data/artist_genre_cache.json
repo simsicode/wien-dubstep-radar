@@ -706,6 +706,14 @@
     ],
     "name": "PSMT"
   },
+  "129348": {
+    "fetched_at": 1792999339,
+    "genres": [
+      "Techno",
+      "House"
+    ],
+    "name": "Kollektiv Sheesh"
+  },
   "129507": {
     "fetched_at": 1791222704,
     "genres": [
@@ -892,6 +900,14 @@
     "fetched_at": 1792134807,
     "genres": [],
     "name": "AMBROXAN"
+  },
+  "137722": {
+    "fetched_at": 1792999338,
+    "genres": [
+      "Techno",
+      "House"
+    ],
+    "name": "Glitzer und Bass"
   },
   "137769": {
     "fetched_at": 1791962360,
@@ -2683,6 +2699,16 @@
       "House"
     ],
     "name": "Jorkes"
+  },
+  "65166": {
+    "fetched_at": 1792999337,
+    "genres": [
+      "House",
+      "Tech House",
+      "House",
+      "Tech House"
+    ],
+    "name": "Peter Portman"
   },
   "65311": {
     "fetched_at": 1792739658,
