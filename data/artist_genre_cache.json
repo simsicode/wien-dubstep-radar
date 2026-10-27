@@ -232,6 +232,11 @@
     ],
     "name": "lex_shockwerk"
   },
+  "108634": {
+    "fetched_at": 1793085466,
+    "genres": [],
+    "name": "Aura"
+  },
   "10905": {
     "fetched_at": 1791222751,
     "genres": [
@@ -713,6 +718,11 @@
       "House"
     ],
     "name": "Kollektiv Sheesh"
+  },
+  "129380": {
+    "fetched_at": 1793085465,
+    "genres": [],
+    "name": "Chinyere"
   },
   "129507": {
     "fetched_at": 1791222704,
@@ -1354,6 +1364,14 @@
     ],
     "name": "Chiara Allnutt"
   },
+  "151103": {
+    "fetched_at": 1793085466,
+    "genres": [
+      "House",
+      "Disco"
+    ],
+    "name": "Mareia"
+  },
   "151631": {
     "fetched_at": 1791530529,
     "genres": [
@@ -1692,6 +1710,11 @@
     "fetched_at": 1791222728,
     "genres": [],
     "name": "Altroy Jerome"
+  },
+  "162308": {
+    "fetched_at": 1793085465,
+    "genres": [],
+    "name": "Gawdesque"
   },
   "162311": {
     "fetched_at": 1792134808,
