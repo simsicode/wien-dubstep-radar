@@ -1333,6 +1333,13 @@
     ],
     "name": "PJPJPJ"
   },
+  "150058": {
+    "fetched_at": 1793344889,
+    "genres": [
+      "House"
+    ],
+    "name": "Seba (4)"
+  },
   "150201": {
     "fetched_at": 1791222735,
     "genres": [
@@ -1669,6 +1676,14 @@
       "Tech House"
     ],
     "name": "Toni Stark"
+  },
+  "160867": {
+    "fetched_at": 1793344890,
+    "genres": [
+      "Progressive House",
+      "Tech House"
+    ],
+    "name": "LAVO (2)"
   },
   "161163": {
     "fetched_at": 1791222719,
@@ -2142,6 +2157,14 @@
       "Minimal Techno"
     ],
     "name": "DIAS"
+  },
+  "183284": {
+    "fetched_at": 1793344890,
+    "genres": [
+      "Progressive House",
+      "Tech House"
+    ],
+    "name": "VYKT"
   },
   "183885": {
     "fetched_at": 1791222720,
