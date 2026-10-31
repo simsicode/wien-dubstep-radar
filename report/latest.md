@@ -1,12 +1,12 @@
 # Wien Dubstep Radar
 
-Stand: 2026-10-30T07:21:31.093305+00:00
+Stand: 2026-10-31T07:11:25.356986+00:00
 
 ## Bestätigte Dubstep-Events (0)
 
 Aktuell keine.
 
-## Bass-nahe Events, nicht eindeutig Dubstep (5)
+## Bass-nahe Events, nicht eindeutig Dubstep (6)
 
 - [bass-nah] 2026-10-31 — **HALLOWEEN at PRST Club with Camion Bazar & Franziska Berns** @ PRST
   Lineup: Camion Bazar, Franziska Berns, Andy Catana, Apua, Rizmo, Reinhard Zach, Stipo
@@ -27,6 +27,11 @@ Aktuell keine.
   Lineup: anxxxious_t, Ayū (1), Georgia Bird, MELIMEKO, Menal Batti, Pink Concrete, saschka, Yan (CZ)
   https://ra.co/events/2542405
   Grund: Artist 'Yan (CZ)' bass-nahe Historie: bass
+
+- [bass-nah] 2026-11-19 — **HEAVY LISTENING with Tanja Turner, Mert Seger & Heap** @ Coco Bar Vienna
+  Lineup: Tanja Turner, Heap
+  https://ra.co/events/2573316
+  Grund: Artist 'Tanja Turner' bass-nahe Historie: bass
 
 - [bass-nah] 2026-12-19 — **sama recordings pres. s c h w e b e n** @ Celeste
   Lineup: Ambient Animal, Tanja Turner

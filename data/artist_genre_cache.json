@@ -1233,6 +1233,13 @@
     ],
     "name": "Fabian Hofer (2)"
   },
+  "147375": {
+    "fetched_at": 1793430683,
+    "genres": [
+      "House"
+    ],
+    "name": "Randalia"
+  },
   "147547": {
     "fetched_at": 1791222717,
     "genres": [
@@ -1422,6 +1429,13 @@
       "Vaporwave"
     ],
     "name": "Tanja Turner"
+  },
+  "153473": {
+    "fetched_at": 1793430684,
+    "genres": [
+      "Techno"
+    ],
+    "name": "Lim Banda"
   },
   "153569": {
     "fetched_at": 1792048487,
@@ -1913,6 +1927,19 @@
     ],
     "name": "DizzyDray"
   },
+  "171104": {
+    "fetched_at": 1793430681,
+    "genres": [
+      "Trance",
+      "Techno",
+      "Techno",
+      "Techno",
+      "Techno",
+      "Trance",
+      "Techno"
+    ],
+    "name": "NYRA (DE)"
+  },
   "172429": {
     "fetched_at": 1791222734,
     "genres": [
@@ -1944,6 +1971,14 @@
       "Techno"
     ],
     "name": "Malounadou"
+  },
+  "173891": {
+    "fetched_at": 1793430680,
+    "genres": [
+      "Tech House",
+      "Electro"
+    ],
+    "name": "André (OF)"
   },
   "174543": {
     "fetched_at": 1791357496,
@@ -2017,6 +2052,13 @@
       "Techno"
     ],
     "name": "ASCHENBRENNER"
+  },
+  "177289": {
+    "fetched_at": 1793430682,
+    "genres": [
+      "Techno"
+    ],
+    "name": "Serafin (AT)"
   },
   "177313": {
     "fetched_at": 1791222705,
@@ -2305,6 +2347,16 @@
       "Techno"
     ],
     "name": "Alex TB"
+  },
+  "23357": {
+    "fetched_at": 1793430682,
+    "genres": [
+      "House",
+      "Progressive House",
+      "Trance",
+      "House"
+    ],
+    "name": "Carl H"
   },
   "25216": {
     "fetched_at": 1791222711,
@@ -2716,6 +2768,24 @@
     ],
     "name": "Felix Rupprecht"
   },
+  "60129": {
+    "fetched_at": 1793430683,
+    "genres": [
+      "Techno",
+      "House",
+      "Techno",
+      "House",
+      "Techno",
+      "Techno",
+      "Techno",
+      "House",
+      "Techno",
+      "Dub Techno",
+      "Techno",
+      "House"
+    ],
+    "name": "Altinbas"
+  },
   "62163": {
     "fetched_at": 1792134810,
     "genres": [
@@ -2817,6 +2887,13 @@
     ],
     "name": "Chicano"
   },
+  "69452": {
+    "fetched_at": 1793430685,
+    "genres": [
+      "Techno"
+    ],
+    "name": "ERNST (NL)"
+  },
   "70230": {
     "fetched_at": 1791530526,
     "genres": [
@@ -2889,6 +2966,14 @@
     ],
     "name": "Mehmet Acuma"
   },
+  "77923": {
+    "fetched_at": 1793430683,
+    "genres": [
+      "Experimental",
+      "Dub Techno"
+    ],
+    "name": "Heap"
+  },
   "78175": {
     "fetched_at": 1791222741,
     "genres": [
@@ -2922,6 +3007,15 @@
       "Ambient"
     ],
     "name": "Inou Ki Endo"
+  },
+  "80189": {
+    "fetched_at": 1793430681,
+    "genres": [
+      "Techno",
+      "Trance",
+      "Techno"
+    ],
+    "name": "Krl Mx"
   },
   "81412": {
     "fetched_at": 1791443929,
@@ -2991,6 +3085,13 @@
       "Electro"
     ],
     "name": "Jan Ehret"
+  },
+  "88143": {
+    "fetched_at": 1793430684,
+    "genres": [
+      "Techno"
+    ],
+    "name": "Annika Stein"
   },
   "90078": {
     "fetched_at": 1792221085,
