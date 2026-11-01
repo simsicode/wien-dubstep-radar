@@ -1,17 +1,12 @@
 # Wien Dubstep Radar
 
-Stand: 2026-10-31T07:11:25.356986+00:00
+Stand: 2026-11-01T07:11:16.270608+00:00
 
 ## Bestätigte Dubstep-Events (0)
 
 Aktuell keine.
 
-## Bass-nahe Events, nicht eindeutig Dubstep (6)
-
-- [bass-nah] 2026-10-31 — **HALLOWEEN at PRST Club with Camion Bazar & Franziska Berns** @ PRST
-  Lineup: Camion Bazar, Franziska Berns, Andy Catana, Apua, Rizmo, Reinhard Zach, Stipo
-  https://ra.co/events/2549018
-  Grund: Artist 'Camion Bazar' bass-nahe Historie: bass
+## Bass-nahe Events, nicht eindeutig Dubstep (5)
 
 - [bass-nah] 2026-11-06 — **MAHLWERK: Afem Syko & Lisa Korver with FADERCULT** @ Grelle Forelle
   Lineup: Afem Syko, Lisa Korver, Ben Derris, Linus Villa, Sophti, Sony2k, maro, Max Wagner, WO.IZZY, Kat Ze
