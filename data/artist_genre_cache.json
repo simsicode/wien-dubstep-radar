@@ -126,6 +126,14 @@
     ],
     "name": "KLING&KLANG"
   },
+  "105590": {
+    "fetched_at": 1793604044,
+    "genres": [
+      "Techno",
+      "House"
+    ],
+    "name": "Progressive"
+  },
   "105909": {
     "fetched_at": 1791616323,
     "genres": [
@@ -332,6 +340,14 @@
       "Techno"
     ],
     "name": "ESCA (3)"
+  },
+  "112639": {
+    "fetched_at": 1793604042,
+    "genres": [
+      "House",
+      "Tech House"
+    ],
+    "name": "Paul Panther"
   },
   "113580": {
     "fetched_at": 1791222749,
@@ -588,6 +604,14 @@
     ],
     "name": "saschka"
   },
+  "125183": {
+    "fetched_at": 1793604044,
+    "genres": [
+      "Disco",
+      "Funk / Soul"
+    ],
+    "name": "Diskohengst"
+  },
   "12598": {
     "fetched_at": 1792221082,
     "genres": [
@@ -710,6 +734,15 @@
       "Techno"
     ],
     "name": "PSMT"
+  },
+  "128903": {
+    "fetched_at": 1793604040,
+    "genres": [
+      "House",
+      "Tech House",
+      "Deep House"
+    ],
+    "name": "Michael Wagner"
   },
   "129348": {
     "fetched_at": 1792999339,
@@ -1414,6 +1447,14 @@
     ],
     "name": "Dual Drive"
   },
+  "152230": {
+    "fetched_at": 1793604041,
+    "genres": [
+      "House",
+      "Tech House"
+    ],
+    "name": "Veronika Amie"
+  },
   "152233": {
     "fetched_at": 1791222714,
     "genres": [
@@ -1422,6 +1463,14 @@
       "Industrial"
     ],
     "name": "Catenation"
+  },
+  "153198": {
+    "fetched_at": 1793604043,
+    "genres": [
+      "Techno",
+      "House"
+    ],
+    "name": "chris deeper"
   },
   "153271": {
     "fetched_at": 1792480489,
@@ -1727,6 +1776,13 @@
     ],
     "name": "Nugi"
   },
+  "161412": {
+    "fetched_at": 1793604039,
+    "genres": [
+      "House"
+    ],
+    "name": "Artemuse"
+  },
   "161565": {
     "fetched_at": 1791530522,
     "genres": [
@@ -1742,6 +1798,13 @@
       "Electronica"
     ],
     "name": "Adina Camhy"
+  },
+  "161698": {
+    "fetched_at": 1793604040,
+    "genres": [
+      "House"
+    ],
+    "name": "Ulfersson"
   },
   "161825": {
     "fetched_at": 1791222732,
@@ -1818,6 +1881,14 @@
       "Noise"
     ],
     "name": "Amar Priganica"
+  },
+  "165627": {
+    "fetched_at": 1793604043,
+    "genres": [
+      "Techno",
+      "House"
+    ],
+    "name": "Edictum"
   },
   "165697": {
     "fetched_at": 1791222744,
@@ -2309,6 +2380,14 @@
     ],
     "name": "Adam Beyer"
   },
+  "190513": {
+    "fetched_at": 1793604041,
+    "genres": [
+      "Techno",
+      "Experimental"
+    ],
+    "name": "Aura Live"
+  },
   "190538": {
     "fetched_at": 1792480486,
     "genres": [
@@ -2431,6 +2510,16 @@
     ],
     "name": "Mischkonsum"
   },
+  "30457": {
+    "fetched_at": 1793604043,
+    "genres": [
+      "Drum & Bass",
+      "Dubstep",
+      "Techno",
+      "House"
+    ],
+    "name": "RaW"
+  },
   "31090": {
     "fetched_at": 1791222726,
     "genres": [
@@ -2551,6 +2640,14 @@
       "House"
     ],
     "name": "Zombies In Miami"
+  },
+  "4199": {
+    "fetched_at": 1793604042,
+    "genres": [
+      "House",
+      "Tech House"
+    ],
+    "name": "Philipp Blecha"
   },
   "42259": {
     "fetched_at": 1792480491,
@@ -3024,6 +3121,13 @@
       "Techno"
     ],
     "name": "Krl Mx"
+  },
+  "8022": {
+    "fetched_at": 1793604040,
+    "genres": [
+      "House"
+    ],
+    "name": "Thomas Grün"
   },
   "81412": {
     "fetched_at": 1791443929,

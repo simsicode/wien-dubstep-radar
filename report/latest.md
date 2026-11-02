@@ -1,10 +1,13 @@
 # Wien Dubstep Radar
 
-Stand: 2026-11-01T07:11:16.270608+00:00
+Stand: 2026-11-02T07:20:44.981464+00:00
 
-## Bestätigte Dubstep-Events (0)
+## Bestätigte Dubstep-Events (1)
 
-Aktuell keine.
+- [DUBSTEP] 2026-11-21 — **lost or unreachable** @ the inner circle vienna / wien
+  Lineup: chris deeper, MIKE MYSTIK, RaW, Edictum, Progressive
+  https://ra.co/events/2574334
+  Grund: Artist 'RaW' hat 1x Dubstep in bisherigen RA-Gigs
 
 ## Bass-nahe Events, nicht eindeutig Dubstep (5)
 
