@@ -1,6 +1,6 @@
 # Wien Dubstep Radar
 
-Stand: 2026-11-02T07:20:44.981464+00:00
+Stand: 2026-11-03T07:12:23.408902+00:00
 
 ## Bestätigte Dubstep-Events (1)
 
