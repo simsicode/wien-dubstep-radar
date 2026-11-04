@@ -1,13 +1,18 @@
 # Wien Dubstep Radar
 
-Stand: 2026-11-03T07:12:23.408902+00:00
+Stand: 2026-11-04T07:12:58.962467+00:00
 
-## Bestätigte Dubstep-Events (1)
+## Bestätigte Dubstep-Events (2)
 
 - [DUBSTEP] 2026-11-21 — **lost or unreachable** @ the inner circle vienna / wien
   Lineup: chris deeper, MIKE MYSTIK, RaW, Edictum, Progressive
   https://ra.co/events/2574334
   Grund: Artist 'RaW' hat 1x Dubstep in bisherigen RA-Gigs
+
+- [DUBSTEP] 2026-11-28 — **CitrusCue presents COIDO & Wingz** @ Club Lucia
+  Lineup: COIDO, yarx
+  https://ra.co/events/2575308
+  Grund: RA-Genre-Tag des Events: Dubstep; Artist 'COIDO' hat 1x Dubstep in bisherigen RA-Gigs; Artist 'yarx' hat 1x Dubstep in bisherigen RA-Gigs
 
 ## Bass-nahe Events, nicht eindeutig Dubstep (5)
 
