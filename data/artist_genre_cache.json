@@ -178,6 +178,13 @@
     ],
     "name": "Stipo"
   },
+  "107476": {
+    "fetched_at": 1793862683,
+    "genres": [
+      "House"
+    ],
+    "name": "TEZIBEL"
+  },
   "10751": {
     "fetched_at": 1791222707,
     "genres": [
@@ -357,6 +364,14 @@
     ],
     "name": "Paul Panther"
   },
+  "113545": {
+    "fetched_at": 1793862683,
+    "genres": [
+      "Techno",
+      "House"
+    ],
+    "name": "Bambalan"
+  },
   "113580": {
     "fetched_at": 1791222749,
     "genres": [
@@ -372,6 +387,13 @@
       "Techno"
     ],
     "name": "Crystal O"
+  },
+  "114237": {
+    "fetched_at": 1793862681,
+    "genres": [
+      "House"
+    ],
+    "name": "Grenco"
   },
   "114444": {
     "fetched_at": 1791222722,
@@ -640,6 +662,21 @@
       "Techno"
     ],
     "name": "ELOISA"
+  },
+  "126232": {
+    "fetched_at": 1793862684,
+    "genres": [
+      "Garage",
+      "Minimal",
+      "House",
+      "Tech House",
+      "House",
+      "Minimal",
+      "House",
+      "Tech House",
+      "Tech House"
+    ],
+    "name": "Stef Davidse"
   },
   "126294": {
     "fetched_at": 1791222746,
@@ -1064,6 +1101,14 @@
     ],
     "name": "Andre Zimmer"
   },
+  "139690": {
+    "fetched_at": 1793862681,
+    "genres": [
+      "Drum & Bass",
+      "Drum & Bass"
+    ],
+    "name": "Minor Forms"
+  },
   "139725": {
     "fetched_at": 1791222704,
     "genres": [
@@ -1335,6 +1380,14 @@
     ],
     "name": "Vivienna"
   },
+  "148331": {
+    "fetched_at": 1793862683,
+    "genres": [
+      "Trance",
+      "Techno"
+    ],
+    "name": "NO ONE"
+  },
   "148941": {
     "fetched_at": 1791222747,
     "genres": [
@@ -1374,6 +1427,14 @@
       "Techno"
     ],
     "name": "DETOXX"
+  },
+  "149396": {
+    "fetched_at": 1793862682,
+    "genres": [
+      "Techno",
+      "House"
+    ],
+    "name": "Alice (AT)"
   },
   "149803": {
     "fetched_at": 1791357493,
@@ -1464,6 +1525,13 @@
       "Acid"
     ],
     "name": "Dual Drive"
+  },
+  "152227": {
+    "fetched_at": 1793862681,
+    "genres": [
+      "House"
+    ],
+    "name": "Andrija Mlacovic"
   },
   "152230": {
     "fetched_at": 1793604041,
@@ -1572,6 +1640,14 @@
       "R&B"
     ],
     "name": "Shepperd"
+  },
+  "155065": {
+    "fetched_at": 1793862684,
+    "genres": [
+      "Trance",
+      "Techno"
+    ],
+    "name": "Armin Hermann"
   },
   "155220": {
     "fetched_at": 1792825895,
@@ -2718,6 +2794,18 @@
       "Electronica"
     ],
     "name": "Philipp Otterbach"
+  },
+  "44317": {
+    "fetched_at": 1793862682,
+    "genres": [
+      "Techno",
+      "House",
+      "House",
+      "Tech House",
+      "Techno",
+      "House"
+    ],
+    "name": "KRN"
   },
   "44831": {
     "fetched_at": 1791222725,
