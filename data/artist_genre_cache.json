@@ -2309,6 +2309,13 @@
     ],
     "name": "L!KA"
   },
+  "179877": {
+    "fetched_at": 1793949254,
+    "genres": [
+      "House"
+    ],
+    "name": "Clem Vital"
+  },
   "179911": {
     "fetched_at": 1791222736,
     "genres": [
@@ -2470,6 +2477,11 @@
     ],
     "name": "REIKA_DJ"
   },
+  "188340": {
+    "fetched_at": 1793949255,
+    "genres": [],
+    "name": "Anna Soto"
+  },
   "188881": {
     "fetched_at": 1791530520,
     "genres": [
@@ -2485,6 +2497,16 @@
       "Dembow"
     ],
     "name": "Yolo Taxi"
+  },
+  "189969": {
+    "fetched_at": 1793949254,
+    "genres": [
+      "Club",
+      "Electronica",
+      "Disco",
+      "Pop"
+    ],
+    "name": "Sherine Falasteen"
   },
   "190": {
     "fetched_at": 1791222723,
@@ -3214,6 +3236,22 @@
     ],
     "name": "Fatima Hajji"
   },
+  "75878": {
+    "fetched_at": 1793949255,
+    "genres": [
+      "Breakbeat",
+      "House",
+      "Techno",
+      "House",
+      "Progressive House",
+      "House",
+      "Techno",
+      "Experimental",
+      "Techno",
+      "House"
+    ],
+    "name": "Fafi Abdel Nour"
+  },
   "7617": {
     "fetched_at": 1792739659,
     "genres": [
@@ -3317,6 +3355,17 @@
       "House"
     ],
     "name": "Yan (CZ)"
+  },
+  "83556": {
+    "fetched_at": 1793949255,
+    "genres": [
+      "Trance",
+      "Acid",
+      "Techno",
+      "Trance",
+      "Techno"
+    ],
+    "name": "EARGASM GOD"
   },
   "84079": {
     "fetched_at": 1791357498,
