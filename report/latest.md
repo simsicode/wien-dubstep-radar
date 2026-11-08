@@ -1,6 +1,6 @@
 # Wien Dubstep Radar
 
-Stand: 2026-11-07T07:11:22.228488+00:00
+Stand: 2026-11-08T07:13:29.147285+00:00
 
 ## Bestätigte Dubstep-Events (3)
 
@@ -21,15 +21,15 @@ Stand: 2026-11-07T07:11:22.228488+00:00
 
 ## Bass-nahe Events, nicht eindeutig Dubstep (3)
 
-- [bass-nah] 2026-11-07 — **served invites Harmony Rec. x hereandthere** @ TBA
-  Lineup: anxxxious_t, Ayū (1), Georgia Bird, MELIMEKO, Menal Batti, Pink Concrete, saschka, Yan (CZ)
-  https://ra.co/events/2542405
-  Grund: Artist 'Yan (CZ)' bass-nahe Historie: bass
-
 - [bass-nah] 2026-11-19 — **HEAVY LISTENING with Tanja Turner, Mert Seger & Heap** @ Coco Bar Vienna
   Lineup: Tanja Turner, Heap
   https://ra.co/events/2573316
   Grund: Artist 'Tanja Turner' bass-nahe Historie: bass
+
+- [bass-nah] 2026-11-21 — **Yolo Taxi with UMAFRICANA, Lua Preta & Miss Roshni~~** @ Funkhaus
+  Lineup: Yolo Taxi, UMAFRICANA, Lua Preta
+  https://ra.co/events/2579685
+  Grund: Artist 'UMAFRICANA' bass-nahe Historie: jungle
 
 - [bass-nah] 2026-12-19 — **sama recordings pres. s c h w e b e n** @ Celeste
   Lineup: Ambient Animal, Tanja Turner

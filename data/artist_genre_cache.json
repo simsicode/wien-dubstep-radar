@@ -281,6 +281,20 @@
     "genres": [],
     "name": "Aura"
   },
+  "109": {
+    "fetched_at": 1794122007,
+    "genres": [
+      "Drum & Bass",
+      "Drum & Bass",
+      "Drum & Bass",
+      "Drum & Bass",
+      "Techno",
+      "Drum & Bass",
+      "Drum & Bass",
+      "Hardcore"
+    ],
+    "name": "Ed Rush"
+  },
   "10905": {
     "fetched_at": 1791222751,
     "genres": [
@@ -430,6 +444,15 @@
       "House"
     ],
     "name": "Anni Herzer"
+  },
+  "117042": {
+    "fetched_at": 1794122008,
+    "genres": [
+      "Trance",
+      "Trance",
+      "Techno"
+    ],
+    "name": "Amøn"
   },
   "117117": {
     "fetched_at": 1791222736,
@@ -833,6 +856,14 @@
     "fetched_at": 1793085465,
     "genres": [],
     "name": "Chinyere"
+  },
+  "129420": {
+    "fetched_at": 1794122007,
+    "genres": [
+      "Drum & Bass",
+      "Drum & Bass"
+    ],
+    "name": "Waeys"
   },
   "129507": {
     "fetched_at": 1791222704,
@@ -1502,6 +1533,16 @@
       "House"
     ],
     "name": "Seba (4)"
+  },
+  "150143": {
+    "fetched_at": 1794122008,
+    "genres": [
+      "Jungle",
+      "Afro House",
+      "Baile Funk",
+      "Kuduro"
+    ],
+    "name": "UMAFRICANA"
   },
   "150201": {
     "fetched_at": 1791222735,
@@ -2180,6 +2221,14 @@
       "House"
     ],
     "name": "Scheibenwischer"
+  },
+  "173107": {
+    "fetched_at": 1794122008,
+    "genres": [
+      "Baile Funk",
+      "Kuduro"
+    ],
+    "name": "Lua Preta"
   },
   "173466": {
     "fetched_at": 1791222730,
