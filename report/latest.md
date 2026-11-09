@@ -1,6 +1,6 @@
 # Wien Dubstep Radar
 
-Stand: 2026-11-08T07:13:29.147285+00:00
+Stand: 2026-11-09T07:21:17.318874+00:00
 
 ## Bestätigte Dubstep-Events (3)
 
@@ -19,7 +19,12 @@ Stand: 2026-11-08T07:13:29.147285+00:00
   https://ra.co/events/2575308
   Grund: RA-Genre-Tag des Events: Dubstep; Artist 'COIDO' hat 1x Dubstep in bisherigen RA-Gigs; Artist 'yarx' hat 1x Dubstep in bisherigen RA-Gigs
 
-## Bass-nahe Events, nicht eindeutig Dubstep (3)
+## Bass-nahe Events, nicht eindeutig Dubstep (4)
+
+- [bass-nah] 2026-11-13 — **10 Years of Publegenden feat. BØRT** @ Club U
+  Lineup: BØRT
+  https://ra.co/events/2579812
+  Grund: RA-Genre-Tag(s) des Events bass-nah: bass
 
 - [bass-nah] 2026-11-19 — **HEAVY LISTENING with Tanja Turner, Mert Seger & Heap** @ Coco Bar Vienna
   Lineup: Tanja Turner, Heap
