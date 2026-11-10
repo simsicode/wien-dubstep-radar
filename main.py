@@ -17,12 +17,14 @@ from datetime import datetime, timedelta, timezone
 
 import ra_client
 import classify
+import site_gen
 from artist_genre_cache import ArtistGenreCache, enrich_artists
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 STATE_PATH = os.path.join(BASE_DIR, "data", "state.json")
 CACHE_PATH = os.path.join(BASE_DIR, "data", "artist_genre_cache.json")
 REPORT_PATH = os.path.join(BASE_DIR, "report", "latest.md")
+SITE_PATH = os.path.join(BASE_DIR, "docs", "index.html")
 
 DAYS_AHEAD = 60
 STATE_RETENTION_DAYS = 3  # how long past events stay in state before being pruned
@@ -55,13 +57,26 @@ def format_event_line(event, result):
     venue = event["venue"]["name"] if event.get("venue") else "?"
     artists = ", ".join(a["name"] for a in event.get("artists") or []) or "(kein Lineup gelistet)"
     url = f"https://ra.co{event['contentUrl']}" if event.get("contentUrl") else ""
-    tag = "DUBSTEP" if result["confirmed"] else "bass-nah"
+    if result["confirmed"]:
+        tag = "DUBSTEP"
+    elif result["group_source"] == "event":
+        tag = "/".join(result["groups"])
+    else:
+        tag = f"{'/'.join(result['groups'])} (via Lineup)"
     lines = [f"- [{tag}] {date_str} — **{event['title']}** @ {venue}"]
     lines.append(f"  Lineup: {artists}")
     if url:
         lines.append(f"  {url}")
     lines.append(f"  Grund: {'; '.join(result['reasons'])}")
     return "\n".join(lines)
+
+
+def group_adjacent(adjacent_events):
+    """Bucket bass-adjacent events by their primary genre, in classify's priority order."""
+    buckets = {}
+    for ev, result in adjacent_events:
+        buckets.setdefault(result["groups"][0], []).append((ev, result))
+    return [(g, buckets[g]) for g in classify.ADJACENT_ORDER if g in buckets]
 
 
 def main():
@@ -98,9 +113,10 @@ def main():
     prune_state(state, today)
     save_state(state)
 
+    generated_at = datetime.now(timezone.utc)
     os.makedirs(os.path.dirname(REPORT_PATH), exist_ok=True)
     with open(REPORT_PATH, "w", encoding="utf-8") as f:
-        f.write(f"# Wien Dubstep Radar\n\nStand: {datetime.now(timezone.utc).isoformat()}\n\n")
+        f.write(f"# Wien Dubstep Radar\n\nStand: {generated_at.isoformat()}\n\n")
         f.write(f"## Bestätigte Dubstep-Events ({len(confirmed_events)})\n\n")
         if confirmed_events:
             for ev, result in confirmed_events:
@@ -109,10 +125,18 @@ def main():
             f.write("Aktuell keine.\n\n")
         f.write(f"## Bass-nahe Events, nicht eindeutig Dubstep ({len(adjacent_events)})\n\n")
         if adjacent_events:
-            for ev, result in adjacent_events:
-                f.write(format_event_line(ev, result) + "\n\n")
+            f.write("Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist "
+                    "(ohne Event-Tag: häufigstes Genre in der Lineup-Historie).\n\n")
+            for genre, items in group_adjacent(adjacent_events):
+                f.write(f"### {genre} ({len(items)})\n\n")
+                for ev, result in items:
+                    f.write(format_event_line(ev, result) + "\n\n")
         else:
             f.write("Aktuell keine.\n\n")
+
+    site_gen.write_site(
+        SITE_PATH, generated_at, confirmed_events, group_adjacent(adjacent_events)
+    )
 
     print(f"NEW_MATCHES: {len(new_matches)}")
     for ev, result in new_matches:

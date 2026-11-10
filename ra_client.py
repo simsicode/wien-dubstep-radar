@@ -26,6 +26,7 @@ query ($filters: FilterInputDtoInput, $pageSize: Int, $page: Int) {
         id
         title
         date
+        startTime
         contentUrl
         venue { id name }
         artists { id name }
