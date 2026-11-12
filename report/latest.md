@@ -1,6 +1,6 @@
 # Wien Dubstep Radar
 
-Stand: 2026-11-11T07:13:19.581033+00:00
+Stand: 2026-11-12T07:12:55.017259+00:00
 
 ## Bestätigte Dubstep-Events (3)
 
@@ -19,18 +19,18 @@ Stand: 2026-11-11T07:13:19.581033+00:00
   https://ra.co/events/2575308
   Grund: RA-Genre-Tag des Events: Dubstep; Artist 'COIDO' hat 1x Dubstep in bisherigen RA-Gigs; Artist 'yarx' hat 1x Dubstep in bisherigen RA-Gigs
 
-## Bass-nahe Events, nicht eindeutig Dubstep (16)
+## Bass-nahe Events, nicht eindeutig Dubstep (17)
 
 Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (ohne Event-Tag: häufigstes Genre in der Lineup-Historie).
 
 ### Jungle (1)
 
-- [Jungle (via Lineup)] 2026-11-21 — **Yolo Taxi with UMAFRICANA, Lua Preta & Miss Roshni~~** @ Funkhaus
+- [Jungle (via Lineup)] 2026-11-21 — **Yolo Taxi with UMAFRICANA, Lua Preta & Miss Roshni~~** @ Funkhaus Wien
   Lineup: Yolo Taxi, UMAFRICANA, Lua Preta
   https://ra.co/events/2579685
   Grund: Artist 'UMAFRICANA' bass-nahe Historie: Jungle
 
-### Drum & Bass (4)
+### Drum & Bass (5)
 
 - [Drum & Bass] 2026-11-13 — **DYSTØPIA RAVE with SCHELLT** @ Das Werk
   Lineup: Kamafaka
@@ -46,6 +46,11 @@ Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (oh
   Lineup: Ed Rush, Waeys
   https://ra.co/events/2579570
   Grund: RA-Genre-Tag(s) des Events bass-nah: Drum & Bass
+
+- [Drum & Bass (via Lineup)] 2026-11-14 — **THE HIVE & COLLAPSE pres. ED RUSH AT FLEX VIENNA** @ Flex
+  Lineup: Ed Rush, Waeys
+  https://ra.co/events/2582503
+  Grund: Artist 'Ed Rush' bass-nahe Historie: Drum & Bass; Artist 'Waeys' bass-nahe Historie: Drum & Bass
 
 - [Drum & Bass] 2026-11-21 — **VIE´n´B** @ Loop
   Lineup: (kein Lineup gelistet)
@@ -78,7 +83,7 @@ Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (oh
   https://ra.co/events/2575843
   Grund: RA-Genre-Tag(s) des Events bass-nah: Breakbeat
 
-- [Breakbeat] 2026-12-05 — **Noche d'Amore - A Dance Romance** @ Funkhaus
+- [Breakbeat] 2026-12-05 — **Noche d'Amore - A Dance Romance** @ Funkhaus Wien
   Lineup: (kein Lineup gelistet)
   https://ra.co/events/2568201
   Grund: RA-Genre-Tag(s) des Events bass-nah: Breakbeat
