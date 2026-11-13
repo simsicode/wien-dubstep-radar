@@ -454,6 +454,18 @@
     ],
     "name": "E.LINA"
   },
+  "110860": {
+    "fetched_at": 1794554032,
+    "genres": [
+      "Techno",
+      "Industrial",
+      "Techno",
+      "Techno",
+      "Techno",
+      "Techno"
+    ],
+    "name": "Golpe"
+  },
   "111437": {
     "fetched_at": 1791530527,
     "genres": [
@@ -1095,6 +1107,16 @@
     ],
     "name": "DJ Raff"
   },
+  "133161": {
+    "fetched_at": 1794554031,
+    "genres": [
+      "Trance",
+      "Techno",
+      "Trance",
+      "Techno"
+    ],
+    "name": "DJ FERRARI"
+  },
   "133848": {
     "fetched_at": 1791222714,
     "genres": [
@@ -1276,6 +1298,14 @@
     ],
     "name": "Felinae"
   },
+  "139029": {
+    "fetched_at": 1794554034,
+    "genres": [
+      "Trance",
+      "Techno"
+    ],
+    "name": "keha"
+  },
   "139543": {
     "fetched_at": 1792394311,
     "genres": [
@@ -1315,6 +1345,24 @@
       "House"
     ],
     "name": "Joules (AT)"
+  },
+  "140059": {
+    "fetched_at": 1794554034,
+    "genres": [
+      "Trance",
+      "Techno"
+    ],
+    "name": "Grafus"
+  },
+  "140601": {
+    "fetched_at": 1794554031,
+    "genres": [
+      "Trance",
+      "Techno",
+      "Trance",
+      "Techno"
+    ],
+    "name": "Tactical Delay"
   },
   "140825": {
     "fetched_at": 1791222746,
@@ -1745,6 +1793,14 @@
     ],
     "name": "NoNameLeft"
   },
+  "151925": {
+    "fetched_at": 1794554030,
+    "genres": [
+      "Trance",
+      "Techno"
+    ],
+    "name": "Comrade Martin"
+  },
   "151973": {
     "fetched_at": 1791530521,
     "genres": [
@@ -1752,6 +1808,14 @@
       "Techno"
     ],
     "name": "THURI"
+  },
+  "152006": {
+    "fetched_at": 1794554030,
+    "genres": [
+      "Trance",
+      "Techno"
+    ],
+    "name": "L4NC3"
   },
   "152020": {
     "fetched_at": 1793517076,
@@ -2056,6 +2120,22 @@
       "Dubstep"
     ],
     "name": "COIDO"
+  },
+  "159666": {
+    "fetched_at": 1794554033,
+    "genres": [
+      "Trance",
+      "Techno"
+    ],
+    "name": "YØNDER"
+  },
+  "160088": {
+    "fetched_at": 1794554034,
+    "genres": [
+      "Trance",
+      "Techno"
+    ],
+    "name": "JO TRAUNER"
   },
   "160146": {
     "fetched_at": 1791222740,
@@ -2537,6 +2617,14 @@
     ],
     "name": "RED GROOVE SYSTEM"
   },
+  "179001": {
+    "fetched_at": 1794554032,
+    "genres": [
+      "Trance",
+      "Techno"
+    ],
+    "name": "LEANNE"
+  },
   "179110": {
     "fetched_at": 1792134805,
     "genres": [
@@ -2622,6 +2710,16 @@
     ],
     "name": "Heinz Tronigger"
   },
+  "181798": {
+    "fetched_at": 1794554032,
+    "genres": [
+      "Techno",
+      "Techno",
+      "Techno",
+      "Electronica"
+    ],
+    "name": "Kingsmo"
+  },
   "181887": {
     "fetched_at": 1791222715,
     "genres": [
@@ -2694,6 +2792,13 @@
       "Techno"
     ],
     "name": "VIERZUDREI"
+  },
+  "185361": {
+    "fetched_at": 1794554033,
+    "genres": [
+      "Techno"
+    ],
+    "name": "DYMINIX"
   },
   "185969": {
     "fetched_at": 1791222738,
@@ -3841,6 +3946,14 @@
       "Footwork"
     ],
     "name": "k means"
+  },
+  "93963": {
+    "fetched_at": 1794554029,
+    "genres": [
+      "Experimental",
+      "Dub Techno"
+    ],
+    "name": "Dino Spiluttini"
   },
   "94357": {
     "fetched_at": 1792480488,
