@@ -1,13 +1,8 @@
 # Wien Dubstep Radar
 
-Stand: 2026-11-13T07:13:55.044520+00:00
+Stand: 2026-11-14T07:11:03.163402+00:00
 
-## Bestätigte Dubstep-Events (3)
-
-- [DUBSTEP] 2026-11-13 — **Basstrace Soliparty** @ Rhiz
-  Lineup: (kein Lineup gelistet)
-  https://ra.co/events/2578526
-  Grund: RA-Genre-Tag des Events: Dubstep
+## Bestätigte Dubstep-Events (2)
 
 - [DUBSTEP] 2026-11-21 — **lost or unreachable** @ the inner circle vienna / wien
   Lineup: chris deeper, MIKE MYSTIK, RaW, Edictum, Progressive
@@ -19,7 +14,7 @@ Stand: 2026-11-13T07:13:55.044520+00:00
   https://ra.co/events/2575308
   Grund: RA-Genre-Tag des Events: Dubstep; Artist 'COIDO' hat 1x Dubstep in bisherigen RA-Gigs; Artist 'yarx' hat 1x Dubstep in bisherigen RA-Gigs
 
-## Bass-nahe Events, nicht eindeutig Dubstep (17)
+## Bass-nahe Events, nicht eindeutig Dubstep (13)
 
 Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (ohne Event-Tag: häufigstes Genre in der Lineup-Historie).
 
@@ -30,17 +25,7 @@ Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (oh
   https://ra.co/events/2579685
   Grund: Artist 'UMAFRICANA' bass-nahe Historie: Jungle
 
-### Drum & Bass (5)
-
-- [Drum & Bass] 2026-11-13 — **DYSTØPIA RAVE with SCHELLT** @ Das Werk
-  Lineup: Kamafaka
-  https://ra.co/events/2579878
-  Grund: RA-Genre-Tag(s) des Events bass-nah: Drum & Bass
-
-- [Drum & Bass] 2026-11-13 — **DRUM & BASSICK x RADIANCE** @ Club Lucia
-  Lineup: (kein Lineup gelistet)
-  https://ra.co/events/2572267
-  Grund: RA-Genre-Tag(s) des Events bass-nah: Drum & Bass
+### Drum & Bass (3)
 
 - [Drum & Bass] 2026-11-14 — **Collapse & The Hive present: Ed Rush** @ Flex
   Lineup: Ed Rush, Waeys
@@ -93,17 +78,7 @@ Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (oh
   https://ra.co/events/2578113
   Grund: Artist 'Fafi Abdel Nour' bass-nahe Historie: Breakbeat
 
-### Bass (5)
-
-- [Bass] 2026-11-13 — **10 Years of Publegenden feat. BØRT** @ Club U
-  Lineup: BØRT
-  https://ra.co/events/2579812
-  Grund: RA-Genre-Tag(s) des Events bass-nah: Bass
-
-- [Bass (via Lineup)] 2026-11-13 — **Zuckerwatt x CYBERTRIBE with Mija -  < Grelle Forelle** @ Grelle Forelle
-  Lineup: Mija, Who is ela¿, DJ Backstage, ENJA, Spud Bencer, VOLTMARIE
-  https://ra.co/events/2580514
-  Grund: Artist 'Mija' bass-nahe Historie: Bass
+### Bass (3)
 
 - [Bass (via Lineup)] 2026-11-19 — **HEAVY LISTENING with Tanja Turner, Mert Seger & Heap** @ Coco Bar Vienna
   Lineup: Tanja Turner, Heap
