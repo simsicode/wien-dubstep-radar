@@ -1,8 +1,8 @@
 # Wien Dubstep Radar
 
-Stand: 2026-11-14T07:11:03.163402+00:00
+Stand: 2026-11-15T07:11:31.354604+00:00
 
-## Bestätigte Dubstep-Events (2)
+## Bestätigte Dubstep-Events (3)
 
 - [DUBSTEP] 2026-11-21 — **lost or unreachable** @ the inner circle vienna / wien
   Lineup: chris deeper, MIKE MYSTIK, RaW, Edictum, Progressive
@@ -14,7 +14,12 @@ Stand: 2026-11-14T07:11:03.163402+00:00
   https://ra.co/events/2575308
   Grund: RA-Genre-Tag des Events: Dubstep; Artist 'COIDO' hat 1x Dubstep in bisherigen RA-Gigs; Artist 'yarx' hat 1x Dubstep in bisherigen RA-Gigs
 
-## Bass-nahe Events, nicht eindeutig Dubstep (13)
+- [DUBSTEP] 2026-12-12 — **Contrast presents: Simula, Enei + Skantia (Dance Macabre)** @ Grelle Forelle
+  Lineup: Simula, Enei, Skantia, EN:VY
+  https://ra.co/events/2585332
+  Grund: Artist 'EN:VY' hat 1x Dubstep in bisherigen RA-Gigs
+
+## Bass-nahe Events, nicht eindeutig Dubstep (11)
 
 Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (ohne Event-Tag: häufigstes Genre in der Lineup-Historie).
 
@@ -25,36 +30,26 @@ Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (oh
   https://ra.co/events/2579685
   Grund: Artist 'UMAFRICANA' bass-nahe Historie: Jungle
 
-### Drum & Bass (3)
-
-- [Drum & Bass] 2026-11-14 — **Collapse & The Hive present: Ed Rush** @ Flex
-  Lineup: Ed Rush, Waeys
-  https://ra.co/events/2579570
-  Grund: RA-Genre-Tag(s) des Events bass-nah: Drum & Bass
-
-- [Drum & Bass (via Lineup)] 2026-11-14 — **THE HIVE & COLLAPSE pres. ED RUSH AT FLEX VIENNA** @ Flex
-  Lineup: Ed Rush, Waeys
-  https://ra.co/events/2582503
-  Grund: Artist 'Ed Rush' bass-nahe Historie: Drum & Bass; Artist 'Waeys' bass-nahe Historie: Drum & Bass
+### Drum & Bass (2)
 
 - [Drum & Bass] 2026-11-21 — **VIE´n´B** @ Loop
   Lineup: (kein Lineup gelistet)
   https://ra.co/events/2581003
   Grund: RA-Genre-Tag(s) des Events bass-nah: Drum & Bass
 
+- [Drum & Bass] 2026-11-21 — **Contrast presents: DJ Marky + Pola & Bryson** @ Grelle Forelle
+  Lineup: DJ Marky, Pola & Bryson
+  https://ra.co/events/2585331
+  Grund: RA-Genre-Tag(s) des Events bass-nah: Drum & Bass
+
 ### Dub (1)
 
 - [Dub] 2026-11-20 — **Grund für Exil - 4lthangrund Soliparty** @ Club Exil
-  Lineup: M41RH, ninon., Ridgie, VOLTMARIE
+  Lineup: M41RH, ninon., Ridgie, VOLTMARIE, Milla Piso, Luca Carlotta, Yves (2)
   https://ra.co/events/2580020
   Grund: RA-Genre-Tag(s) des Events bass-nah: Dub
 
-### Garage (2)
-
-- [Garage (via Lineup)] 2026-11-14 — **Radio Rudina** @ PRST
-  Lineup: Andre Zimmer, Anni Herzer, Valentin Zelz
-  https://ra.co/events/2564050
-  Grund: Artist 'Andre Zimmer' bass-nahe Historie: Garage
+### Garage (1)
 
 - [Garage (via Lineup)] 2026-12-07 — **GLITCH presents Stef Davidse** @ The Loft
   Lineup: Stef Davidse
