@@ -435,6 +435,14 @@
     ],
     "name": "Sutter Cane"
   },
+  "110529": {
+    "fetched_at": 1794899571,
+    "genres": [
+      "Footwork",
+      "Ghetto Tech"
+    ],
+    "name": "Linko"
+  },
   "110832": {
     "fetched_at": 1791357500,
     "genres": [
@@ -622,6 +630,16 @@
       "Minimal Techno"
     ],
     "name": "Huebl"
+  },
+  "11920": {
+    "fetched_at": 1794899574,
+    "genres": [
+      "New Wave",
+      "Post-Punk",
+      "EBM",
+      "New Wave"
+    ],
+    "name": "Xeno & Oaklander"
   },
   "119275": {
     "fetched_at": 1791616321,
@@ -916,6 +934,14 @@
     ],
     "name": "Ben Derris"
   },
+  "128035": {
+    "fetched_at": 1794899567,
+    "genres": [
+      "House",
+      "Electro"
+    ],
+    "name": "Æ-X"
+  },
   "128036": {
     "fetched_at": 1792480490,
     "genres": [
@@ -1189,6 +1215,13 @@
     ],
     "name": "DJ Backstage"
   },
+  "137298": {
+    "fetched_at": 1794899575,
+    "genres": [
+      "Techno"
+    ],
+    "name": "pezel"
+  },
   "137604": {
     "fetched_at": 1792134807,
     "genres": [],
@@ -1425,6 +1458,11 @@
     ],
     "name": "Josefina Tapia (2)"
   },
+  "142842": {
+    "fetched_at": 1794899569,
+    "genres": [],
+    "name": "Rosa Nebel"
+  },
   "142848": {
     "fetched_at": 1792048486,
     "genres": [],
@@ -1620,6 +1658,13 @@
     ],
     "name": "Bambi-S"
   },
+  "147897": {
+    "fetched_at": 1794899569,
+    "genres": [
+      "Techno"
+    ],
+    "name": "Dimitri Cooman"
+  },
   "148079": {
     "fetched_at": 1791222735,
     "genres": [
@@ -1645,6 +1690,13 @@
       "Techno"
     ],
     "name": "NO ONE"
+  },
+  "148560": {
+    "fetched_at": 1794899570,
+    "genres": [
+      "Techno"
+    ],
+    "name": "Invda"
   },
   "148845": {
     "fetched_at": 1794726690,
@@ -2415,6 +2467,14 @@
     ],
     "name": "Lisa Korver"
   },
+  "165971": {
+    "fetched_at": 1794899568,
+    "genres": [
+      "Techno",
+      "Latin Bass"
+    ],
+    "name": "KRISTUS"
+  },
   "166446": {
     "fetched_at": 1791357500,
     "genres": [
@@ -2660,6 +2720,15 @@
     ],
     "name": "ZEQ (1)"
   },
+  "177580": {
+    "fetched_at": 1794899573,
+    "genres": [
+      "Trance",
+      "Techno",
+      "Techno"
+    ],
+    "name": "Eminelli"
+  },
   "177591": {
     "fetched_at": 1794295268,
     "genres": [
@@ -2672,6 +2741,24 @@
     "fetched_at": 1792480489,
     "genres": [],
     "name": "Satu"
+  },
+  "178298": {
+    "fetched_at": 1794899573,
+    "genres": [
+      "Drum & Bass",
+      "Dubstep"
+    ],
+    "name": "Rudolfode"
+  },
+  "178367": {
+    "fetched_at": 1794899574,
+    "genres": [
+      "Drum & Bass",
+      "Dubstep",
+      "Drum & Bass",
+      "Jungle"
+    ],
+    "name": "Sequent"
   },
   "178753": {
     "fetched_at": 1791616325,
@@ -2721,6 +2808,13 @@
       "Techno"
     ],
     "name": "KJAER"
+  },
+  "179393": {
+    "fetched_at": 1794899570,
+    "genres": [
+      "Techno"
+    ],
+    "name": "Schwarzmarct"
   },
   "179399": {
     "fetched_at": 1791530521,
@@ -2773,6 +2867,19 @@
     ],
     "name": "Tence"
   },
+  "181293": {
+    "fetched_at": 1794899571,
+    "genres": [
+      "Techno",
+      "Trance",
+      "Techno",
+      "Trance",
+      "Techno",
+      "Trance",
+      "Techno"
+    ],
+    "name": "Elyante"
+  },
   "181497": {
     "fetched_at": 1791443932,
     "genres": [
@@ -2780,6 +2887,11 @@
       "Industrial"
     ],
     "name": "Darina (2)"
+  },
+  "181648": {
+    "fetched_at": 1794899569,
+    "genres": [],
+    "name": "Mitra"
   },
   "181769": {
     "fetched_at": 1791222720,
@@ -2922,6 +3034,14 @@
     ],
     "name": "SHIZZLE"
   },
+  "188098": {
+    "fetched_at": 1794899572,
+    "genres": [
+      "Footwork",
+      "Ghetto Tech"
+    ],
+    "name": "Atlana"
+  },
   "188178": {
     "fetched_at": 1791222732,
     "genres": [
@@ -2986,6 +3106,14 @@
       "Tech House"
     ],
     "name": "Adam Beyer"
+  },
+  "190060": {
+    "fetched_at": 1794899568,
+    "genres": [
+      "Breakbeat",
+      "Club"
+    ],
+    "name": "Tursa"
   },
   "190367": {
     "fetched_at": 1794381196,
@@ -3181,6 +3309,26 @@
       "House"
     ],
     "name": "Kirill Kirik"
+  },
+  "3250": {
+    "fetched_at": 1794899572,
+    "genres": [
+      "Techno",
+      "Tech House",
+      "Techno",
+      "House",
+      "Techno",
+      "Tech House"
+    ],
+    "name": "Nakadia"
+  },
+  "3323": {
+    "fetched_at": 1794899575,
+    "genres": [
+      "Drum & Bass",
+      "Drum & Bass"
+    ],
+    "name": "Noisia"
   },
   "3387": {
     "fetched_at": 1791530530,
@@ -3980,6 +4128,16 @@
       "House"
     ],
     "name": "Audrey Danza"
+  },
+  "87394": {
+    "fetched_at": 1794899573,
+    "genres": [
+      "Techno",
+      "Tech House",
+      "Techno",
+      "House"
+    ],
+    "name": "BOHO"
   },
   "88143": {
     "fetched_at": 1793430684,
