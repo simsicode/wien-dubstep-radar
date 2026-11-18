@@ -1,6 +1,6 @@
 # Wien Dubstep Radar
 
-Stand: 2026-11-17T07:12:55.889587+00:00
+Stand: 2026-11-18T07:12:55.776035+00:00
 
 ## Bestätigte Dubstep-Events (4)
 
@@ -24,7 +24,7 @@ Stand: 2026-11-17T07:12:55.889587+00:00
   https://ra.co/events/2585332
   Grund: Artist 'EN:VY' hat 1x Dubstep in bisherigen RA-Gigs
 
-## Bass-nahe Events, nicht eindeutig Dubstep (17)
+## Bass-nahe Events, nicht eindeutig Dubstep (19)
 
 Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (ohne Event-Tag: häufigstes Genre in der Lineup-Historie).
 
@@ -74,7 +74,12 @@ Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (oh
   https://ra.co/events/2586433
   Grund: Artist 'ninon.' bass-nahe Historie: Dub
 
-### Garage (1)
+### Garage (2)
+
+- [Garage/Breakbeat] 2026-11-20 — **OVER:TONE X CitrusCue** @ Club U
+  Lineup: A.Fruit, RUV3N
+  https://ra.co/events/2587691
+  Grund: RA-Genre-Tag(s) des Events bass-nah: Garage, Breakbeat
 
 - [Garage (via Lineup)] 2026-12-07 — **GLITCH presents Stef Davidse** @ The Loft
   Lineup: Stef Davidse
@@ -88,7 +93,7 @@ Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (oh
   https://ra.co/events/2585650
   Grund: RA-Genre-Tag(s) des Events bass-nah: Footwork
 
-### Breakbeat (3)
+### Breakbeat (4)
 
 - [Breakbeat] 2026-11-28 — **Patches** @ Tagada
   Lineup: Philo_, Meander (1), dj ayran, Tursa
@@ -99,6 +104,11 @@ Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (oh
   Lineup: (kein Lineup gelistet)
   https://ra.co/events/2568201
   Grund: RA-Genre-Tag(s) des Events bass-nah: Breakbeat
+
+- [Breakbeat (via Lineup)] 2026-12-08 — **VERKNALLT x TUFF** @ Club Exil
+  Lineup: A.N.I., DJ DRECKISCH, Naij, ORYMA, Serafin (AT), Sutter Cane
+  https://ra.co/events/2587047
+  Grund: Artist 'A.N.I.' bass-nahe Historie: Breakbeat
 
 - [Breakbeat (via Lineup)] 2026-12-11 — **Amore AG x VNV with Fafi Abdel Nour** @ FLUCC
   Lineup: Fafi Abdel Nour

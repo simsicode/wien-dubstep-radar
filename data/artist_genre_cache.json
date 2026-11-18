@@ -310,6 +310,15 @@
     ],
     "name": "Ricky Chong"
   },
+  "108020": {
+    "fetched_at": 1794985975,
+    "genres": [
+      "Trance",
+      "Techno",
+      "Techno"
+    ],
+    "name": "ORYMA"
+  },
   "108161": {
     "fetched_at": 1791222739,
     "genres": [
@@ -500,6 +509,35 @@
       "Tech House"
     ],
     "name": "Paul Panther"
+  },
+  "113122": {
+    "fetched_at": 1794985973,
+    "genres": [
+      "Trance",
+      "Techno",
+      "Techno",
+      "Hardcore",
+      "Techno",
+      "Hardcore",
+      "Techno",
+      "Techno",
+      "Trance",
+      "Techno",
+      "Trance",
+      "Techno",
+      "Techno",
+      "Techno",
+      "Techno",
+      "Industrial",
+      "Experimental",
+      "Club",
+      "Trance",
+      "Breakbeat",
+      "Techno",
+      "Techno",
+      "Electro"
+    ],
+    "name": "A.N.I."
   },
   "113545": {
     "fetched_at": 1793862683,
@@ -1586,6 +1624,28 @@
     "genres": [],
     "name": "Qaoz"
   },
+  "146992": {
+    "fetched_at": 1794985974,
+    "genres": [
+      "Trance",
+      "Techno",
+      "Trance",
+      "Techno",
+      "Techno",
+      "Techno",
+      "Trance",
+      "Techno",
+      "Trance",
+      "Techno",
+      "Trance",
+      "Techno",
+      "Trance",
+      "Techno",
+      "Trance",
+      "Techno"
+    ],
+    "name": "DJ DRECKISCH"
+  },
   "147080": {
     "fetched_at": 1791443932,
     "genres": [
@@ -1732,6 +1792,14 @@
       "Tech House"
     ],
     "name": "Max Styler"
+  },
+  "149266": {
+    "fetched_at": 1794985971,
+    "genres": [
+      "House",
+      "Tech House"
+    ],
+    "name": "Navid (2)"
   },
   "149329": {
     "fetched_at": 1792134805,
@@ -2047,6 +2115,14 @@
     ],
     "name": "MELIMEKO"
   },
+  "154968": {
+    "fetched_at": 1794985973,
+    "genres": [
+      "Disco",
+      "Funk / Soul"
+    ],
+    "name": "Mikey Gee"
+  },
   "154978": {
     "fetched_at": 1791222723,
     "genres": [
@@ -2241,6 +2317,25 @@
       "Techno"
     ],
     "name": "YØNDER"
+  },
+  "160": {
+    "fetched_at": 1794985975,
+    "genres": [
+      "Techno",
+      "House",
+      "Techno",
+      "Electronica",
+      "Techno",
+      "Techno",
+      "Techno",
+      "House",
+      "Techno",
+      "Trance",
+      "Techno",
+      "Techno",
+      "Electronica"
+    ],
+    "name": "Chris Liebing"
   },
   "160088": {
     "fetched_at": 1794554034,
@@ -2539,6 +2634,14 @@
     "genres": [],
     "name": "Theodora"
   },
+  "170071": {
+    "fetched_at": 1794985972,
+    "genres": [
+      "Breakbeat",
+      "Garage"
+    ],
+    "name": "RUV3N"
+  },
   "170138": {
     "fetched_at": 1792480494,
     "genres": [
@@ -2670,6 +2773,13 @@
       "Tech House"
     ],
     "name": "Reinhard Zach"
+  },
+  "174913": {
+    "fetched_at": 1794985974,
+    "genres": [
+      "Techno"
+    ],
+    "name": "Naij"
   },
   "174963": {
     "fetched_at": 1791222752,
@@ -3742,6 +3852,13 @@
     ],
     "name": "Altinbas"
   },
+  "61887": {
+    "fetched_at": 1794985973,
+    "genres": [
+      "Techno"
+    ],
+    "name": "CED/Cedsh"
+  },
   "62119": {
     "fetched_at": 1794295267,
     "genres": [
@@ -4114,6 +4231,14 @@
       "Electro"
     ],
     "name": "Jan Ehret"
+  },
+  "84809": {
+    "fetched_at": 1794985972,
+    "genres": [
+      "Breakbeat",
+      "Garage"
+    ],
+    "name": "A.Fruit"
   },
   "86820": {
     "fetched_at": 1794381198,
