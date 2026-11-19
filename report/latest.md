@@ -1,6 +1,6 @@
 # Wien Dubstep Radar
 
-Stand: 2026-11-18T07:12:55.776035+00:00
+Stand: 2026-11-19T07:11:54.574019+00:00
 
 ## Bestätigte Dubstep-Events (4)
 
@@ -24,7 +24,7 @@ Stand: 2026-11-18T07:12:55.776035+00:00
   https://ra.co/events/2585332
   Grund: Artist 'EN:VY' hat 1x Dubstep in bisherigen RA-Gigs
 
-## Bass-nahe Events, nicht eindeutig Dubstep (19)
+## Bass-nahe Events, nicht eindeutig Dubstep (21)
 
 Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (ohne Event-Tag: häufigstes Genre in der Lineup-Historie).
 
@@ -86,18 +86,28 @@ Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (oh
   https://ra.co/events/2576366
   Grund: Artist 'Stef Davidse' bass-nahe Historie: Garage
 
-### Footwork (1)
+### Footwork (2)
+
+- [Footwork] 2026-11-25 — **shared frequencies: listening session** @ Funkhaus Wien
+  Lineup: Reeno Reluv
+  https://ra.co/events/2588164
+  Grund: RA-Genre-Tag(s) des Events bass-nah: Footwork
 
 - [Footwork] 2026-12-05 — **PURRR x TECHNOLOT** @ Das Lot
   Lineup: Chinyere, zey, Linko, Atlana
   https://ra.co/events/2585650
   Grund: RA-Genre-Tag(s) des Events bass-nah: Footwork
 
-### Breakbeat (4)
+### Breakbeat (5)
 
 - [Breakbeat] 2026-11-28 — **Patches** @ Tagada
   Lineup: Philo_, Meander (1), dj ayran, Tursa
   https://ra.co/events/2575843
+  Grund: RA-Genre-Tag(s) des Events bass-nah: Breakbeat
+
+- [Breakbeat] 2026-11-28 — **SWEAT** @ Rhiz
+  Lineup: (kein Lineup gelistet)
+  https://ra.co/events/2588619
   Grund: RA-Genre-Tag(s) des Events bass-nah: Breakbeat
 
 - [Breakbeat] 2026-12-05 — **Noche d'Amore - A Dance Romance** @ Funkhaus Wien
