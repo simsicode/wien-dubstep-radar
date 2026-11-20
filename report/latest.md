@@ -1,6 +1,6 @@
 # Wien Dubstep Radar
 
-Stand: 2026-11-19T07:11:54.574019+00:00
+Stand: 2026-11-20T07:11:53.615064+00:00
 
 ## Bestätigte Dubstep-Events (4)
 
@@ -24,7 +24,7 @@ Stand: 2026-11-19T07:11:54.574019+00:00
   https://ra.co/events/2585332
   Grund: Artist 'EN:VY' hat 1x Dubstep in bisherigen RA-Gigs
 
-## Bass-nahe Events, nicht eindeutig Dubstep (21)
+## Bass-nahe Events, nicht eindeutig Dubstep (20)
 
 Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (ohne Event-Tag: häufigstes Genre in der Lineup-Historie).
 
@@ -125,12 +125,7 @@ Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (oh
   https://ra.co/events/2578113
   Grund: Artist 'Fafi Abdel Nour' bass-nahe Historie: Breakbeat
 
-### Bass (4)
-
-- [Bass (via Lineup)] 2026-11-19 — **HEAVY LISTENING with Tanja Turner, Mert Seger & Heap** @ Coco Bar Vienna
-  Lineup: Tanja Turner, Heap
-  https://ra.co/events/2573316
-  Grund: Artist 'Tanja Turner' bass-nahe Historie: Bass
+### Bass (3)
 
 - [Bass] 2026-12-05 — **Palazzo Festival** @ WUK
   Lineup: Elektro Guzzi, WaqWaq Kingdom, Catu Diosis, Fingers Of God

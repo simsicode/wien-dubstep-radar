@@ -618,6 +618,14 @@
     ],
     "name": "Sancta"
   },
+  "117298": {
+    "fetched_at": 1795158712,
+    "genres": [
+      "Trance",
+      "Techno"
+    ],
+    "name": "DJ Rakita"
+  },
   "11762": {
     "fetched_at": 1791222719,
     "genres": [
@@ -1953,6 +1961,13 @@
       "Disco"
     ],
     "name": "Mareia"
+  },
+  "151133": {
+    "fetched_at": 1795158713,
+    "genres": [
+      "House"
+    ],
+    "name": "Mo the prophet"
   },
   "151631": {
     "fetched_at": 1791530529,
@@ -3361,6 +3376,16 @@
       "Tech House"
     ],
     "name": "Nick Curly"
+  },
+  "24433": {
+    "fetched_at": 1795158713,
+    "genres": [
+      "House",
+      "Techno",
+      "Techno",
+      "House"
+    ],
+    "name": "Joyce Muniz"
   },
   "25216": {
     "fetched_at": 1791222711,
