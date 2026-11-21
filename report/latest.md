@@ -1,8 +1,8 @@
 # Wien Dubstep Radar
 
-Stand: 2026-11-20T07:11:53.615064+00:00
+Stand: 2026-11-21T07:10:56.483095+00:00
 
-## Bestätigte Dubstep-Events (4)
+## Bestätigte Dubstep-Events (5)
 
 - [DUBSTEP] 2026-11-21 — **lost or unreachable** @ the inner circle vienna / wien
   Lineup: chris deeper, MIKE MYSTIK, RaW, Edictum, Progressive
@@ -14,17 +14,22 @@ Stand: 2026-11-20T07:11:53.615064+00:00
   https://ra.co/events/2575308
   Grund: RA-Genre-Tag des Events: Dubstep; Artist 'COIDO' hat 1x Dubstep in bisherigen RA-Gigs; Artist 'yarx' hat 1x Dubstep in bisherigen RA-Gigs
 
+- [DUBSTEP] 2026-12-04 — **Let It Roll Tour Vienna** @ Club Exil
+  Lineup: Delta Heavy, Mozey, Black Sun Empire, Mandidextrous
+  https://ra.co/events/2589983
+  Grund: Artist 'Delta Heavy' hat 1x Dubstep in bisherigen RA-Gigs; Artist 'Mandidextrous' hat 1x Dubstep in bisherigen RA-Gigs
+
 - [DUBSTEP] 2026-12-07 — **BASST SCHO presents Dru** @ Loop
-  Lineup: Rudolfode, Sequent
+  Lineup: IDENMIND, Rudolfode, Sequent
   https://ra.co/events/2586324
-  Grund: RA-Genre-Tag des Events: Dubstep; Artist 'Rudolfode' hat 1x Dubstep in bisherigen RA-Gigs; Artist 'Sequent' hat 1x Dubstep in bisherigen RA-Gigs
+  Grund: RA-Genre-Tag des Events: Dubstep; Artist 'IDENMIND' hat 1x Dubstep in bisherigen RA-Gigs; Artist 'Rudolfode' hat 1x Dubstep in bisherigen RA-Gigs; Artist 'Sequent' hat 1x Dubstep in bisherigen RA-Gigs
 
 - [DUBSTEP] 2026-12-12 — **Contrast presents: Simula, Enei + Skantia (Dance Macabre)** @ Grelle Forelle
   Lineup: Simula, Enei, Skantia, EN:VY
   https://ra.co/events/2585332
   Grund: Artist 'EN:VY' hat 1x Dubstep in bisherigen RA-Gigs
 
-## Bass-nahe Events, nicht eindeutig Dubstep (20)
+## Bass-nahe Events, nicht eindeutig Dubstep (18)
 
 Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (ohne Event-Tag: häufigstes Genre in der Lineup-Historie).
 
@@ -62,24 +67,14 @@ Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (oh
   https://ra.co/events/2585333
   Grund: RA-Genre-Tag(s) des Events bass-nah: Drum & Bass
 
-### Dub (2)
-
-- [Dub] 2026-11-20 — **Grund für Exil - 4lthangrund Soliparty** @ Club Exil
-  Lineup: M41RH, ninon., Ridgie, VOLTMARIE, Milla Piso, Luca Carlotta, Yves (2)
-  https://ra.co/events/2580020
-  Grund: RA-Genre-Tag(s) des Events bass-nah: Dub
+### Dub (1)
 
 - [Dub (via Lineup)] 2026-12-07 — **ALERT[A] x EXCESO** @ Club Lucia
   Lineup: Eminelli, ninon.
   https://ra.co/events/2586433
   Grund: Artist 'ninon.' bass-nahe Historie: Dub
 
-### Garage (2)
-
-- [Garage/Breakbeat] 2026-11-20 — **OVER:TONE X CitrusCue** @ Club U
-  Lineup: A.Fruit, RUV3N
-  https://ra.co/events/2587691
-  Grund: RA-Genre-Tag(s) des Events bass-nah: Garage, Breakbeat
+### Garage (1)
 
 - [Garage (via Lineup)] 2026-12-07 — **GLITCH presents Stef Davidse** @ The Loft
   Lineup: Stef Davidse
