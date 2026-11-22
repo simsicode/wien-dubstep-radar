@@ -1,13 +1,8 @@
 # Wien Dubstep Radar
 
-Stand: 2026-11-21T07:10:56.483095+00:00
+Stand: 2026-11-22T07:11:10.194145+00:00
 
-## Bestätigte Dubstep-Events (5)
-
-- [DUBSTEP] 2026-11-21 — **lost or unreachable** @ the inner circle vienna / wien
-  Lineup: chris deeper, MIKE MYSTIK, RaW, Edictum, Progressive
-  https://ra.co/events/2574334
-  Grund: Artist 'RaW' hat 1x Dubstep in bisherigen RA-Gigs
+## Bestätigte Dubstep-Events (4)
 
 - [DUBSTEP] 2026-11-28 — **CitrusCue presents COIDO & Wingz** @ Club Lucia
   Lineup: COIDO, yarx
@@ -29,33 +24,11 @@ Stand: 2026-11-21T07:10:56.483095+00:00
   https://ra.co/events/2585332
   Grund: Artist 'EN:VY' hat 1x Dubstep in bisherigen RA-Gigs
 
-## Bass-nahe Events, nicht eindeutig Dubstep (18)
+## Bass-nahe Events, nicht eindeutig Dubstep (14)
 
 Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (ohne Event-Tag: häufigstes Genre in der Lineup-Historie).
 
-### Jungle (1)
-
-- [Jungle (via Lineup)] 2026-11-21 — **Yolo Taxi with UMAFRICANA, Lua Preta & Miss Roshni~~** @ Funkhaus Wien
-  Lineup: Yolo Taxi, UMAFRICANA, Lua Preta
-  https://ra.co/events/2579685
-  Grund: Artist 'UMAFRICANA' bass-nahe Historie: Jungle
-
-### Drum & Bass (5)
-
-- [Drum & Bass] 2026-11-21 — **Tram & Bass Vol. 4. Our longest ride yet** @ TBA - Viennese Tram
-  Lineup: (kein Lineup gelistet)
-  https://ra.co/events/2586292
-  Grund: RA-Genre-Tag(s) des Events bass-nah: Drum & Bass
-
-- [Drum & Bass] 2026-11-21 — **VIE´n´B** @ Loop
-  Lineup: (kein Lineup gelistet)
-  https://ra.co/events/2581003
-  Grund: RA-Genre-Tag(s) des Events bass-nah: Drum & Bass
-
-- [Drum & Bass] 2026-11-21 — **Contrast presents: DJ Marky + Pola & Bryson** @ Grelle Forelle
-  Lineup: DJ Marky, Pola & Bryson
-  https://ra.co/events/2585331
-  Grund: RA-Genre-Tag(s) des Events bass-nah: Drum & Bass
+### Drum & Bass (2)
 
 - [Drum & Bass] 2026-12-05 — **KRAMPUS BEATS** @ Loop
   Lineup: (kein Lineup gelistet)
