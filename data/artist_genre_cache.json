@@ -1169,6 +1169,13 @@
     ],
     "name": "presso"
   },
+  "131245": {
+    "fetched_at": 1795418070,
+    "genres": [
+      "House"
+    ],
+    "name": "heronymus"
+  },
   "131680": {
     "fetched_at": 1794323164,
     "genres": [
@@ -1816,6 +1823,11 @@
       "Techno"
     ],
     "name": "NO ONE"
+  },
+  "148518": {
+    "fetched_at": 1795418071,
+    "genres": [],
+    "name": "DJ Lucy Bakanal"
   },
   "148560": {
     "fetched_at": 1794899570,
@@ -2642,6 +2654,36 @@
       "Latin Bass"
     ],
     "name": "KRISTUS"
+  },
+  "166236": {
+    "fetched_at": 1795418071,
+    "genres": [
+      "Techno",
+      "Hardcore",
+      "Techno",
+      "Trance",
+      "Techno",
+      "Trance",
+      "Techno",
+      "Techno",
+      "Techno",
+      "Electronica",
+      "Trance",
+      "Techno",
+      "Techno",
+      "Trance",
+      "Techno",
+      "Techno",
+      "Techno",
+      "Techno",
+      "House",
+      "Trance",
+      "Techno",
+      "Techno",
+      "Techno",
+      "Industrial"
+    ],
+    "name": "Ueberrest"
   },
   "166446": {
     "fetched_at": 1791357500,
