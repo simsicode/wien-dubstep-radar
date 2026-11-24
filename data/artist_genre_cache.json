@@ -1523,6 +1523,16 @@
     ],
     "name": "BLUDHOUND"
   },
+  "141457": {
+    "fetched_at": 1795504306,
+    "genres": [
+      "Tech House",
+      "Electro",
+      "Trance",
+      "House"
+    ],
+    "name": "MATHILDA (2)"
+  },
   "141765": {
     "fetched_at": 1791222729,
     "genres": [
@@ -1603,6 +1613,11 @@
     "fetched_at": 1792048488,
     "genres": [],
     "name": "Qamareen"
+  },
+  "144859": {
+    "fetched_at": 1795504306,
+    "genres": [],
+    "name": "Verschrin"
   },
   "145066": {
     "fetched_at": 1791222701,
@@ -2183,6 +2198,11 @@
       "Techno"
     ],
     "name": "TONKS"
+  },
+  "154356": {
+    "fetched_at": 1795504305,
+    "genres": [],
+    "name": "Ku-Ro"
   },
   "154561": {
     "fetched_at": 1794726688,
@@ -3091,6 +3111,14 @@
       "Garage"
     ],
     "name": "Tence"
+  },
+  "181262": {
+    "fetched_at": 1795504306,
+    "genres": [
+      "Tech House",
+      "Electro"
+    ],
+    "name": "Rehorn"
   },
   "181293": {
     "fetched_at": 1794899571,
