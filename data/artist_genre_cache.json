@@ -1557,6 +1557,21 @@
     ],
     "name": "Bluest"
   },
+  "141952": {
+    "fetched_at": 1795590694,
+    "genres": [
+      "Trance",
+      "Techno",
+      "Trance",
+      "House",
+      "Trance",
+      "Techno",
+      "Trance",
+      "Trance",
+      "Techno"
+    ],
+    "name": "ANDATA"
+  },
   "142750": {
     "fetched_at": 1794381199,
     "genres": [
@@ -2121,6 +2136,14 @@
       "House"
     ],
     "name": "chris deeper"
+  },
+  "153256": {
+    "fetched_at": 1795590694,
+    "genres": [
+      "Techno",
+      "Industrial"
+    ],
+    "name": "Provocateur"
   },
   "153271": {
     "fetched_at": 1792480489,
@@ -3408,6 +3431,17 @@
     ],
     "name": "Novioxx"
   },
+  "192399": {
+    "fetched_at": 1795590695,
+    "genres": [
+      "Techno",
+      "Trance",
+      "Techno",
+      "Techno",
+      "Industrial"
+    ],
+    "name": "Ben Parker 030"
+  },
   "19387": {
     "fetched_at": 1794726690,
     "genres": [
@@ -4117,6 +4151,14 @@
     ],
     "name": "Tham"
   },
+  "62469": {
+    "fetched_at": 1795590695,
+    "genres": [
+      "House",
+      "Disco"
+    ],
+    "name": "Boogaloo Steve"
+  },
   "63972": {
     "fetched_at": 1792221085,
     "genres": [
@@ -4592,6 +4634,14 @@
       "Footwork"
     ],
     "name": "k means"
+  },
+  "93793": {
+    "fetched_at": 1795590695,
+    "genres": [
+      "House",
+      "Disco"
+    ],
+    "name": "Flying Horstman"
   },
   "93963": {
     "fetched_at": 1794554029,

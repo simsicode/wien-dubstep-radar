@@ -1,6 +1,6 @@
 # Wien Dubstep Radar
 
-Stand: 2026-11-24T07:11:47.107671+00:00
+Stand: 2026-11-25T07:11:36.001035+00:00
 
 ## Bestätigte Dubstep-Events (4)
 
@@ -101,7 +101,7 @@ Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (oh
   Grund: RA-Genre-Tag(s) des Events bass-nah: Bass
 
 - [Bass] 2026-12-12 — **CIVIC: Pressure** @ FLUCC
-  Lineup: (kein Lineup gelistet)
+  Lineup: LUZZT, BLUDHOUND
   https://ra.co/events/2586156
   Grund: RA-Genre-Tag(s) des Events bass-nah: Bass
 
