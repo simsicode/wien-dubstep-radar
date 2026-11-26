@@ -410,6 +410,14 @@
     ],
     "name": "Cosmic Gate"
   },
+  "109114": {
+    "fetched_at": 1795677084,
+    "genres": [
+      "Techno",
+      "House"
+    ],
+    "name": "Mike Momburg"
+  },
   "10919": {
     "fetched_at": 1791222747,
     "genres": [
@@ -797,6 +805,20 @@
     ],
     "name": "Chata"
   },
+  "122589": {
+    "fetched_at": 1795677083,
+    "genres": [
+      "House",
+      "House",
+      "Disco",
+      "House",
+      "Deep House",
+      "Techno",
+      "House",
+      "House"
+    ],
+    "name": "André Dancekowski"
+  },
   "122751": {
     "fetched_at": 1791222725,
     "genres": [
@@ -1007,6 +1029,14 @@
       "Tech House"
     ],
     "name": "Chris Freud"
+  },
+  "127732": {
+    "fetched_at": 1795677084,
+    "genres": [
+      "Techno",
+      "House"
+    ],
+    "name": "Domenik Deckert"
   },
   "127841": {
     "fetched_at": 1791222747,
@@ -2152,6 +2182,16 @@
     ],
     "name": "Miyra Lim"
   },
+  "153452": {
+    "fetched_at": 1795677084,
+    "genres": [
+      "Dub",
+      "Experimental",
+      "Techno",
+      "Bass"
+    ],
+    "name": "DJ Ebhardy"
+  },
   "153455": {
     "fetched_at": 1792480495,
     "genres": [
@@ -2423,6 +2463,22 @@
     ],
     "name": "Alexis Hera"
   },
+  "159526": {
+    "fetched_at": 1795677082,
+    "genres": [
+      "Dubstep",
+      "Dub Techno"
+    ],
+    "name": "Nadin"
+  },
+  "159527": {
+    "fetched_at": 1795677083,
+    "genres": [
+      "Dubstep",
+      "Dub Techno"
+    ],
+    "name": "Nobody-Basstrace"
+  },
   "159538": {
     "fetched_at": 1791222751,
     "genres": [
@@ -2661,6 +2717,13 @@
       "Noise"
     ],
     "name": "Amar Priganica"
+  },
+  "16502": {
+    "fetched_at": 1795677085,
+    "genres": [
+      "House"
+    ],
+    "name": "Muallem"
   },
   "165627": {
     "fetched_at": 1793604043,
@@ -3111,6 +3174,25 @@
       "Techno"
     ],
     "name": "AMOVV"
+  },
+  "17993": {
+    "fetched_at": 1795677085,
+    "genres": [
+      "Techno",
+      "House",
+      "House",
+      "Techno",
+      "House",
+      "Tech House",
+      "Minimal",
+      "Techno",
+      "House",
+      "Techno",
+      "House",
+      "House",
+      "Electronica"
+    ],
+    "name": "PARAMIDA"
   },
   "180455": {
     "fetched_at": 1793776378,
@@ -4513,6 +4595,14 @@
       "Garage"
     ],
     "name": "A.Fruit"
+  },
+  "85057": {
+    "fetched_at": 1795677086,
+    "genres": [
+      "House",
+      "House"
+    ],
+    "name": "vince"
   },
   "86820": {
     "fetched_at": 1794381198,

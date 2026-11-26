@@ -1,8 +1,8 @@
 # Wien Dubstep Radar
 
-Stand: 2026-11-25T07:11:36.001035+00:00
+Stand: 2026-11-26T07:11:26.370882+00:00
 
-## Bestätigte Dubstep-Events (4)
+## Bestätigte Dubstep-Events (5)
 
 - [DUBSTEP] 2026-11-28 — **CitrusCue presents COIDO & Wingz** @ Club Lucia
   Lineup: COIDO, yarx
@@ -14,6 +14,11 @@ Stand: 2026-11-25T07:11:36.001035+00:00
   https://ra.co/events/2589983
   Grund: Artist 'Delta Heavy' hat 1x Dubstep in bisherigen RA-Gigs; Artist 'Mandidextrous' hat 1x Dubstep in bisherigen RA-Gigs
 
+- [DUBSTEP] 2026-12-04 — **Basstrace 067 with NINA (UK), Montaha & Sequent** @ FLUCC
+  Lineup: Sequent, Nadin, Nobody-Basstrace
+  https://ra.co/events/2593941
+  Grund: RA-Genre-Tag des Events: Dubstep; Artist 'Sequent' hat 1x Dubstep in bisherigen RA-Gigs; Artist 'Nadin' hat 1x Dubstep in bisherigen RA-Gigs; Artist 'Nobody-Basstrace' hat 1x Dubstep in bisherigen RA-Gigs
+
 - [DUBSTEP] 2026-12-07 — **BASST SCHO presents Dru** @ Loop
   Lineup: IDENMIND, Rudolfode, Sequent
   https://ra.co/events/2586324
@@ -24,7 +29,7 @@ Stand: 2026-11-25T07:11:36.001035+00:00
   https://ra.co/events/2585332
   Grund: Artist 'EN:VY' hat 1x Dubstep in bisherigen RA-Gigs
 
-## Bass-nahe Events, nicht eindeutig Dubstep (14)
+## Bass-nahe Events, nicht eindeutig Dubstep (15)
 
 Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (ohne Event-Tag: häufigstes Genre in der Lineup-Historie).
 
@@ -40,12 +45,17 @@ Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (oh
   https://ra.co/events/2585333
   Grund: RA-Genre-Tag(s) des Events bass-nah: Drum & Bass
 
-### Dub (1)
+### Dub (2)
 
 - [Dub (via Lineup)] 2026-12-07 — **ALERT[A] x EXCESO** @ Club Lucia
   Lineup: Eminelli, ninon.
   https://ra.co/events/2586433
   Grund: Artist 'ninon.' bass-nahe Historie: Dub
+
+- [Dub] 2026-12-17 — **HEAVY LISTENING #5 Season Closing** @ Coco Bar Vienna
+  Lineup: DJ Ebhardy, A_Phan
+  https://ra.co/events/2593482
+  Grund: RA-Genre-Tag(s) des Events bass-nah: Dub
 
 ### Garage (1)
 
@@ -54,12 +64,7 @@ Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (oh
   https://ra.co/events/2576366
   Grund: Artist 'Stef Davidse' bass-nahe Historie: Garage
 
-### Footwork (2)
-
-- [Footwork] 2026-11-25 — **shared frequencies: listening session** @ Funkhaus Wien
-  Lineup: Reeno Reluv
-  https://ra.co/events/2588164
-  Grund: RA-Genre-Tag(s) des Events bass-nah: Footwork
+### Footwork (1)
 
 - [Footwork] 2026-12-05 — **PURRR x TECHNOLOT** @ Das Lot
   Lineup: Chinyere, zey, Linko, Atlana
@@ -93,7 +98,12 @@ Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (oh
   https://ra.co/events/2578113
   Grund: Artist 'Fafi Abdel Nour' bass-nahe Historie: Breakbeat
 
-### Bass (3)
+### Bass (4)
+
+- [Bass (via Lineup)] 2026-12-04 — **Bravo invites ** @ Funkhaus Wien
+  Lineup: André Dancekowski, Tanja Turner
+  https://ra.co/events/2593575
+  Grund: Artist 'Tanja Turner' bass-nahe Historie: Bass
 
 - [Bass] 2026-12-05 — **Palazzo Festival** @ WUK
   Lineup: Elektro Guzzi, WaqWaq Kingdom, Catu Diosis, Fingers Of God
