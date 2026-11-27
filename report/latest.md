@@ -1,6 +1,6 @@
 # Wien Dubstep Radar
 
-Stand: 2026-11-26T07:11:26.370882+00:00
+Stand: 2026-11-27T07:11:26.161384+00:00
 
 ## Bestätigte Dubstep-Events (5)
 
@@ -9,15 +9,15 @@ Stand: 2026-11-26T07:11:26.370882+00:00
   https://ra.co/events/2575308
   Grund: RA-Genre-Tag des Events: Dubstep; Artist 'COIDO' hat 1x Dubstep in bisherigen RA-Gigs; Artist 'yarx' hat 1x Dubstep in bisherigen RA-Gigs
 
-- [DUBSTEP] 2026-12-04 — **Let It Roll Tour Vienna** @ Club Exil
-  Lineup: Delta Heavy, Mozey, Black Sun Empire, Mandidextrous
-  https://ra.co/events/2589983
-  Grund: Artist 'Delta Heavy' hat 1x Dubstep in bisherigen RA-Gigs; Artist 'Mandidextrous' hat 1x Dubstep in bisherigen RA-Gigs
-
 - [DUBSTEP] 2026-12-04 — **Basstrace 067 with NINA (UK), Montaha & Sequent** @ FLUCC
   Lineup: Sequent, Nadin, Nobody-Basstrace
   https://ra.co/events/2593941
   Grund: RA-Genre-Tag des Events: Dubstep; Artist 'Sequent' hat 1x Dubstep in bisherigen RA-Gigs; Artist 'Nadin' hat 1x Dubstep in bisherigen RA-Gigs; Artist 'Nobody-Basstrace' hat 1x Dubstep in bisherigen RA-Gigs
+
+- [DUBSTEP] 2026-12-04 — **Let It Roll Tour Vienna** @ Club Exil
+  Lineup: Delta Heavy, Mozey, Black Sun Empire, Mandidextrous
+  https://ra.co/events/2589983
+  Grund: Artist 'Delta Heavy' hat 1x Dubstep in bisherigen RA-Gigs; Artist 'Mandidextrous' hat 1x Dubstep in bisherigen RA-Gigs
 
 - [DUBSTEP] 2026-12-07 — **BASST SCHO presents Dru** @ Loop
   Lineup: IDENMIND, Rudolfode, Sequent

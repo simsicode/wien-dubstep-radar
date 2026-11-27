@@ -805,6 +805,13 @@
     ],
     "name": "Chata"
   },
+  "122132": {
+    "fetched_at": 1795763484,
+    "genres": [
+      "House"
+    ],
+    "name": "Matteomie"
+  },
   "122589": {
     "fetched_at": 1795677083,
     "genres": [
@@ -1257,6 +1264,13 @@
       "House"
     ],
     "name": "Oliviero"
+  },
+  "132805": {
+    "fetched_at": 1795763484,
+    "genres": [
+      "House"
+    ],
+    "name": "Saunaclub"
   },
   "13308": {
     "fetched_at": 1791222748,
@@ -1752,6 +1766,13 @@
     ],
     "name": "Anna Ullrich"
   },
+  "146857": {
+    "fetched_at": 1795763485,
+    "genres": [
+      "House"
+    ],
+    "name": "KASI"
+  },
   "146945": {
     "fetched_at": 1792134810,
     "genres": [],
@@ -1824,6 +1845,14 @@
       "House"
     ],
     "name": "Randalia"
+  },
+  "147482": {
+    "fetched_at": 1795763483,
+    "genres": [
+      "Techno",
+      "Hardcore"
+    ],
+    "name": "Auditore"
   },
   "147547": {
     "fetched_at": 1791222717,
@@ -2388,6 +2417,13 @@
       "Techno"
     ],
     "name": "Dimitrios (2)"
+  },
+  "157373": {
+    "fetched_at": 1795763483,
+    "genres": [
+      "House"
+    ],
+    "name": "Reese_0410"
   },
   "157820": {
     "fetched_at": 1791616322,
@@ -3551,6 +3587,13 @@
     ],
     "name": "Black Sun Empire"
   },
+  "20768": {
+    "fetched_at": 1795763486,
+    "genres": [
+      "House"
+    ],
+    "name": "Lampert"
+  },
   "20805": {
     "fetched_at": 1791222743,
     "genres": [
@@ -3627,6 +3670,13 @@
     "fetched_at": 1791222711,
     "genres": [],
     "name": "Crazy Sonic"
+  },
+  "26476": {
+    "fetched_at": 1795763485,
+    "genres": [
+      "House"
+    ],
+    "name": "XANDER"
   },
   "27500": {
     "fetched_at": 1791357497,
