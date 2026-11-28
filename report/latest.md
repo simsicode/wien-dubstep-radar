@@ -1,6 +1,6 @@
 # Wien Dubstep Radar
 
-Stand: 2026-11-27T07:11:26.161384+00:00
+Stand: 2026-11-28T07:11:21.782563+00:00
 
 ## Bestätigte Dubstep-Events (5)
 
@@ -29,7 +29,7 @@ Stand: 2026-11-27T07:11:26.161384+00:00
   https://ra.co/events/2585332
   Grund: Artist 'EN:VY' hat 1x Dubstep in bisherigen RA-Gigs
 
-## Bass-nahe Events, nicht eindeutig Dubstep (15)
+## Bass-nahe Events, nicht eindeutig Dubstep (17)
 
 Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (ohne Event-Tag: häufigstes Genre in der Lineup-Historie).
 
@@ -57,12 +57,17 @@ Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (oh
   https://ra.co/events/2593482
   Grund: RA-Genre-Tag(s) des Events bass-nah: Dub
 
-### Garage (1)
+### Garage (2)
 
 - [Garage (via Lineup)] 2026-12-07 — **GLITCH presents Stef Davidse** @ The Loft
   Lineup: Stef Davidse
   https://ra.co/events/2576366
   Grund: Artist 'Stef Davidse' bass-nahe Historie: Garage
+
+- [Garage (via Lineup)] 2027-01-27 — **Klang909 with Benwal** @ PRST
+  Lineup: Benwal
+  https://ra.co/events/2594287
+  Grund: Artist 'Benwal' bass-nahe Historie: Garage
 
 ### Footwork (1)
 
@@ -98,16 +103,21 @@ Gruppiert nach dem bass-nahen RA-Genre, mit dem das Event ausgeschrieben ist (oh
   https://ra.co/events/2578113
   Grund: Artist 'Fafi Abdel Nour' bass-nahe Historie: Breakbeat
 
-### Bass (4)
+### Bass (5)
 
-- [Bass (via Lineup)] 2026-12-04 — **Bravo invites ** @ Funkhaus Wien
-  Lineup: André Dancekowski, Tanja Turner
+- [Bass (via Lineup)] 2026-12-04 — **Bravo invites Dancekowski** @ Funkhaus Wien
+  Lineup: André Dancekowski, Tanja Turner, Felix Wolfs
   https://ra.co/events/2593575
   Grund: Artist 'Tanja Turner' bass-nahe Historie: Bass
 
 - [Bass] 2026-12-05 — **Palazzo Festival** @ WUK
   Lineup: Elektro Guzzi, WaqWaq Kingdom, Catu Diosis, Fingers Of God
   https://ra.co/events/2580457
+  Grund: RA-Genre-Tag(s) des Events bass-nah: Bass
+
+- [Bass] 2026-12-05 — **PANZERSCHOKOLADE #34** @ FLUCC
+  Lineup: Mister Bellini
+  https://ra.co/events/2595389
   Grund: RA-Genre-Tag(s) des Events bass-nah: Bass
 
 - [Bass] 2026-12-12 — **CIVIC: Pressure** @ FLUCC
